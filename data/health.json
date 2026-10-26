@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-10-26T01:59:20.210Z",
+  "ok": true,
+  "streamWarning": false,
+  "providers": [
+    {
+      "id": "dizipal",
+      "status": "ONLINE",
+      "url": "https://dizipal3008.com",
+      "latencyMs": 393,
+      "ageHours": 4
+    },
+    {
+      "id": "filmmakinesi",
+      "status": "ONLINE",
+      "url": "https://filmmakinesi.vip",
+      "latencyMs": 1527,
+      "ageHours": 4
+    },
+    {
+      "id": "fullhdfilmizlesene",
+      "status": "ONLINE",
+      "url": "https://www.fullhdfilmizlesene.com",
+      "latencyMs": 1336,
+      "ageHours": 4
+    },
+    {
+      "id": "hdfilmcehennemi",
+      "status": "ONLINE",
+      "url": "https://www.hdfilmcehennemi.pw",
+      "latencyMs": 1321,
+      "ageHours": 4
+    },
+    {
+      "id": "inat",
+      "status": "FALLBACK",
+      "url": "https://sprboxs.bar",
+      "latencyMs": 9999,
+      "ageHours": 4
+    },
+    {
+      "id": "jetfilmizle",
+      "status": "ONLINE",
+      "url": "https://jetfilmizle.net",
+      "latencyMs": 991,
+      "ageHours": 4
+    },
+    {
+      "id": "rec",
+      "status": "ONLINE",
+      "url": "https://a.prectv70.lol",
+      "latencyMs": 595,
+      "ageHours": 4
+    },
+    {
+      "id": "sezonlukdizi",
+      "status": "ONLINE",
+      "url": "https://sezonlukdizi.cc",
+      "latencyMs": 1650,
+      "ageHours": 4
+    },
+    {
+      "id": "sinewix",
+      "status": "ONLINE",
+      "url": "https://www.sinewix.com",
+      "latencyMs": 1546,
+      "ageHours": 4
+    },
+    {
+      "id": "webteizle",
+      "status": "ONLINE",
+      "url": "https://webteizle.net",
+      "latencyMs": 1190,
+      "ageHours": 4
+    },
+    {
+      "id": "yabancidizi",
+      "status": "ONLINE",
+      "url": "https://yabancidizi.co",
+      "latencyMs": 614,
+      "ageHours": 4
+    }
+  ],
+  "offline": [],
+  "stale": [],
+  "sports": {
+    "channels": 33,
+    "liveChannels": 3,
+    "streams": 43,
+    "live": 5
+  },
+  "nettv": {
+    "streams": 613,
+    "live": 112
+  },
+  "thresholds": {
+    "sportsLivePctWarn": 10,
+    "nettvLivePctWarn": 15,
+    "maxFeedAgeHours": 48
+  }
+}

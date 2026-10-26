@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T22:08:54.951Z",
+  "updatedAt": "2026-10-26T01:55:15.957Z",
   "version": "1.0.0",
   "totalChannels": 33,
-  "activeChannels": 27,
+  "activeChannels": 3,
   "channels": {
     "bein-sports-1": {
       "id": "bein-sports-1",
@@ -16,62 +16,17 @@
             "User-Agent": "googleusercontent",
             "Referer": "https://trgoals1332.xyz/"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
         },
         {
-          "url": "http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "IPTV Multi-Backup Sports",
-          "feedRepo": "https://github.com/berkaygulerr/IPTV",
-          "isVerifiedLive": false
-        },
-        {
-          "url": "http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "IPTV Multi-Backup Sports",
-          "feedRepo": "https://github.com/berkaygulerr/IPTV",
-          "isVerifiedLive": false
-        },
-        {
-          "url": "http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "IPTV Multi-Backup Sports",
-          "feedRepo": "https://github.com/berkaygulerr/IPTV",
-          "isVerifiedLive": false
-        },
-        {
-          "url": "https://serveranon1.online:8443/701/index.m3u8",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "IPTV Multi-Backup Sports",
-          "feedRepo": "https://github.com/berkaygulerr/IPTV",
-          "isVerifiedLive": false
-        },
-        {
-          "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "IPTV Multi-Backup Sports",
-          "feedRepo": "https://github.com/berkaygulerr/IPTV",
-          "isVerifiedLive": false
-        },
-        {
           "url": "https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 11930,
+          "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
           "isVerifiedLive": false
@@ -79,8 +34,17 @@
         {
           "url": "http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12016,
+          "score": 0,
+          "feedSource": "IPTV Multi-Backup Sports",
+          "feedRepo": "https://github.com/berkaygulerr/IPTV",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8",
+          "headers": {},
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
           "isVerifiedLive": false
@@ -88,8 +52,44 @@
         {
           "url": "https://217.30.11.74/e/6570.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12018,
+          "score": 0,
+          "feedSource": "IPTV Multi-Backup Sports",
+          "feedRepo": "https://github.com/berkaygulerr/IPTV",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8",
+          "headers": {},
+          "latencyMs": 12018,
+          "score": 0,
+          "feedSource": "IPTV Multi-Backup Sports",
+          "feedRepo": "https://github.com/berkaygulerr/IPTV",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts",
+          "headers": {},
+          "latencyMs": 12019,
+          "score": 0,
+          "feedSource": "IPTV Multi-Backup Sports",
+          "feedRepo": "https://github.com/berkaygulerr/IPTV",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://serveranon1.online:8443/701/index.m3u8",
+          "headers": {},
+          "latencyMs": 12020,
+          "score": 0,
+          "feedSource": "IPTV Multi-Backup Sports",
+          "feedRepo": "https://github.com/berkaygulerr/IPTV",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
+          "headers": {},
+          "latencyMs": 12015,
+          "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
           "isVerifiedLive": false
@@ -97,8 +97,8 @@
         {
           "url": "http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2621&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 11919,
+          "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
           "isVerifiedLive": false
@@ -122,61 +122,6 @@
         {
           "name": "⌜ ASLAN SPOR ⌟",
           "title": "[KAYNAK 2] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 3] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 4] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 5] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "https://serveranon1.online:8443/701/index.m3u8",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 6] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 7] beIN SPORTS 1 HD (Yedek Hat)",
           "url": "https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR",
           "quality": "1080p",
           "isLive": true,
@@ -187,7 +132,7 @@
         },
         {
           "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 8] beIN SPORTS 1 HD (Yedek Hat)",
+          "title": "[KAYNAK 3] beIN SPORTS 1 HD (Yedek Hat)",
           "url": "http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8",
           "quality": "1080p",
           "isLive": true,
@@ -198,8 +143,63 @@
         },
         {
           "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 9] beIN SPORTS 1 HD (Yedek Hat)",
+          "title": "[KAYNAK 4] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 5] beIN SPORTS 1 HD (Yedek Hat)",
           "url": "https://217.30.11.74/e/6570.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 6] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 7] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 8] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "https://serveranon1.online:8443/701/index.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 9] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
           "quality": "1080p",
           "isLive": true,
           "primary": false,
@@ -232,8 +232,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -268,8 +268,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -304,8 +304,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12016,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -340,8 +340,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -376,8 +376,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12014,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -412,8 +412,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -445,8 +445,8 @@
         {
           "url": "http://wowza.beinsports.com.tr/live/bshaber/playlist.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 8108,
+          "score": 0,
           "feedSource": "MoonCrown Live Turkish",
           "feedRepo": "https://github.com/mooncrown04/nuvio",
           "isVerifiedLive": false
@@ -478,8 +478,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12019,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -514,8 +514,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -523,8 +523,8 @@
         {
           "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 11913,
+          "score": 0,
           "feedSource": "ByteFixRepairs Turk IPTV",
           "feedRepo": "https://gist.github.com/ByteFixRepairs",
           "isVerifiedLive": false
@@ -570,8 +570,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -646,8 +646,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12015,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -682,8 +682,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12016,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -718,8 +718,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12016,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -754,8 +754,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12018,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -790,8 +790,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12016,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -826,8 +826,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12015,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -862,8 +862,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12016,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -898,8 +898,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -934,8 +934,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12018,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -970,8 +970,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12017,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -1006,8 +1006,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12014,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -1042,8 +1042,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12018,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -1078,8 +1078,8 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12016,
+          "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
           "isVerifiedLive": false
@@ -1109,28 +1109,30 @@
       "logo": "https://picon.pics/TR/Spor/TrtSpor.png",
       "streams": [
         {
-          "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "ByteFixRepairs Turk IPTV",
-          "feedRepo": "https://gist.github.com/ByteFixRepairs",
-          "isVerifiedLive": false
-        },
-        {
           "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 1015,
+          "score": 949,
           "feedSource": "Aslan Static High-Availability Edge",
           "feedRepo": "local",
-          "isVerifiedLive": false
+          "isVerifiedLive": true,
+          "lastVerifiedAt": "2026-10-26T01:55:15.957Z"
+        },
+        {
+          "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+          "headers": {},
+          "latencyMs": 1331,
+          "score": 933,
+          "feedSource": "ByteFixRepairs Turk IPTV",
+          "feedRepo": "https://gist.github.com/ByteFixRepairs",
+          "isVerifiedLive": true,
+          "lastVerifiedAt": "2026-10-26T01:55:15.956Z"
         },
         {
           "url": "https://trt.daioncdn.net/trt-spor/master.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 285,
+          "score": 0,
           "feedSource": "Aslan Static High-Availability Edge",
           "feedRepo": "local",
           "isVerifiedLive": false
@@ -1138,8 +1140,8 @@
         {
           "url": "https://trt.daioncdn.net/trt-spor-yildiz/master.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 179,
+          "score": 0,
           "feedSource": "Aslan Static High-Availability Edge",
           "feedRepo": "local",
           "isVerifiedLive": false
@@ -1209,20 +1211,22 @@
         {
           "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 2096,
+          "score": 795,
           "feedSource": "ByteFixRepairs Turk IPTV",
           "feedRepo": "https://gist.github.com/ByteFixRepairs",
-          "isVerifiedLive": false
+          "isVerifiedLive": true,
+          "lastVerifiedAt": "2026-10-26T01:55:15.957Z"
         },
         {
           "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 6317,
+          "score": 684,
           "feedSource": "Aslan Static High-Availability Edge",
           "feedRepo": "local",
-          "isVerifiedLive": false
+          "isVerifiedLive": true,
+          "lastVerifiedAt": "2026-10-26T01:55:15.957Z"
         }
       ],
       "formattedStreams": [
@@ -1257,10 +1261,20 @@
       "logo": "https://picon.pics/TR/Spor/Tv8bucuk.png",
       "streams": [
         {
+          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
+          "headers": {},
+          "latencyMs": 2650,
+          "score": 867,
+          "feedSource": "ByteFixRepairs Turk IPTV",
+          "feedRepo": "https://gist.github.com/ByteFixRepairs",
+          "isVerifiedLive": true,
+          "lastVerifiedAt": "2026-10-26T01:55:15.957Z"
+        },
+        {
           "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12016,
+          "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
           "isVerifiedLive": false
@@ -1268,19 +1282,10 @@
         {
           "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864",
           "headers": {},
-          "latencyMs": 950,
-          "score": 25,
+          "latencyMs": 12014,
+          "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
-          "isVerifiedLive": false
-        },
-        {
-          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "ByteFixRepairs Turk IPTV",
-          "feedRepo": "https://gist.github.com/ByteFixRepairs",
           "isVerifiedLive": false
         }
       ],
