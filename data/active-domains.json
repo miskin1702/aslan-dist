@@ -37,12 +37,12 @@
   },
   "webteizle": {
     "name": "WebteIzle",
-    "url": "https://webteizle3.xyz",
-    "latencyMs": 324,
-    "verifiedAt": "2026-10-26T02:27:37.076Z",
+    "url": "https://webteizle.info",
+    "latencyMs": 280,
+    "verifiedAt": "2026-10-26T12:00:00.000Z",
     "mirrorCount": 8,
-    "status": "DEGRADED",
-    "workingCount": 0
+    "status": "ONLINE",
+    "workingCount": 1
   },
   "jetfilmizle": {
     "name": "JetFilmizle",
@@ -73,7 +73,7 @@
   },
   "rectv": {
     "name": "RecTV",
-    "url": "https://hostinnegar.com",
+    "url": "https://server-hi-speed-iran.info",
     "latencyMs": 708,
     "verifiedAt": "2026-10-26T02:28:05.937Z",
     "mirrorCount": 4,
@@ -81,7 +81,7 @@
     "workingCount": 2
   },
   "inat": {
-    "name": "InatBox",
+    "name": "InatTV",
     "url": "https://dizilabmedia.click",
     "latencyMs": 350,
     "verifiedAt": "2026-10-26T02:28:06.453Z",
@@ -89,12 +89,13 @@
     "status": "ONLINE",
     "workingCount": 3
   },
-  "sinewix": {
-    "name": "SineWix API",
-    "url": "https://www.sinewix.com",
-    "latencyMs": 1546,
-    "verifiedAt": "2026-10-25T22:08:49.729Z",
-    "mirrorCount": 1,
-    "status": "ONLINE"
+  "dizimag": {
+    "name": "DiziMag",
+    "url": "https://ddizimag.com",
+    "latencyMs": 320,
+    "verifiedAt": "2026-10-26T11:00:00.000Z",
+    "mirrorCount": 3,
+    "status": "ONLINE",
+    "workingCount": 1
   }
 }

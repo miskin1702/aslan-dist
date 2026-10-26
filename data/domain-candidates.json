@@ -91,10 +91,11 @@
       "testPath": "/",
       "searchMarker": "webteizle",
       "mirrors": [
-        "https://webteizle3.xyz",
         "https://webteizle.info",
-        "https://webteizle.org",
+        "https://webteizle3.xyz",
+        "https://webteizle.co",
         "https://webteizle.net",
+        "https://webteizle.org",
         "https://webteizle.xyz"
       ]
     },
@@ -116,18 +117,10 @@
       "type": "api",
       "testPath": "/api/attest/nonce",
       "mirrors": [
+        "https://server-hi-speed-iran.info",
+        "https://hostinnegar.com",
         "https://a.prectv70.lol",
-        "https://windowsdiba.info",
-        "https://server-hi-speed-iran.info"
-      ]
-    },
-    "sinewix": {
-      "name": "SineWix API",
-      "type": "api",
-      "testPath": "/",
-      "mirrors": [
-        "https://ydfvfdizipanel.ru/public/api",
-        "https://sinewix.com"
+        "https://windowsdiba.info"
       ]
     },
     "inat": {

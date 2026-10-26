@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:36:35.986Z",
+  "generatedAt": "2026-10-26T10:35:36.045Z",
   "ok": true,
   "streamWarning": true,
   "providers": [
@@ -8,77 +8,70 @@
       "status": "ONLINE",
       "url": "https://dizibal.org",
       "latencyMs": 497,
-      "ageHours": 0
+      "ageHours": 8
     },
     {
       "id": "filmmakinesi",
       "status": "ONLINE",
       "url": "https://filmmakinesi.co",
       "latencyMs": 904,
-      "ageHours": 0
+      "ageHours": 8
     },
     {
       "id": "fullhdfilmizlesene",
       "status": "ONLINE",
       "url": "https://www.fullhdfilmizlesene.now",
       "latencyMs": 771,
-      "ageHours": 0
+      "ageHours": 8
     },
     {
       "id": "hdfilmcehennemi",
       "status": "ONLINE",
       "url": "https://www.hdfilmcehennemi2.biz",
       "latencyMs": 439,
-      "ageHours": 0
+      "ageHours": 8
     },
     {
       "id": "inat",
       "status": "ONLINE",
       "url": "https://dizilabmedia.click",
       "latencyMs": 350,
-      "ageHours": 0
+      "ageHours": 8
     },
     {
       "id": "jetfilmizle",
       "status": "ONLINE",
       "url": "https://jetfilmizle.app",
       "latencyMs": 435,
-      "ageHours": 0
+      "ageHours": 8
     },
     {
       "id": "rectv",
       "status": "ONLINE",
       "url": "https://hostinnegar.com",
       "latencyMs": 708,
-      "ageHours": 0
+      "ageHours": 8
     },
     {
       "id": "sezonlukdizi",
       "status": "ONLINE",
       "url": "https://sezonlukdizi.cc",
       "latencyMs": 467,
-      "ageHours": 0
-    },
-    {
-      "id": "sinewix",
-      "status": "ONLINE",
-      "url": "https://www.sinewix.com",
-      "latencyMs": 1546,
-      "ageHours": 4
+      "ageHours": 8
     },
     {
       "id": "webteizle",
       "status": "DEGRADED",
       "url": "https://webteizle3.xyz",
       "latencyMs": 324,
-      "ageHours": 0
+      "ageHours": 8
     },
     {
       "id": "yabancidizi",
       "status": "ONLINE",
       "url": "https://yabanci-dizi.now",
       "latencyMs": 805,
-      "ageHours": 0
+      "ageHours": 8
     }
   ],
   "offline": [],

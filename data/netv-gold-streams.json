@@ -7,6 +7,1466 @@
   "totalWebEndpoints": 341,
   "streams": [
     {
+      "id": "38179438",
+      "title": "Dha 2",
+      "idgo": "dha2",
+      "type": 6,
+      "url": "https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8",
+      "rawUrl": "@y@@yy1111@CFp#6CUl##.l6t{=iT+rPD#JtqT=^P8KTL^.[+MTsL^#[RqJP8{=kM1Uop2ULo!ptrpRU",
+      "headers": {},
+      "order": 1208,
+      "verified": true,
+      "latencyMs": 386,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178498",
+      "title": "a2",
+      "idgo": "a2",
+      "type": 6,
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+      "rawUrl": "@y@@yy1111@iq==Mr}#8qt=RiJqT=tTi#.qtqT=^P#,rKTlsyD^+L=K^+L=Kk1FUF,trpRU",
+      "headers": {
+        "User-Agent": "kopernik"
+      },
+      "order": 268,
+      "verified": true,
+      "latencyMs": 443,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179437",
+      "title": "Dha 1",
+      "idgo": "dha1",
+      "type": 6,
+      "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8",
+      "rawUrl": "@y@@yy1111@CFp#6CUl##.l6t{=iT+rPD#JtqT=^P8KT^.[+MTs1kg6Tlg^#[RqJP8{=kMCpFFLoF6UtrpRU",
+      "headers": {},
+      "order": 1207,
+      "verified": true,
+      "latencyMs": 496,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178390",
+      "title": "TV 5 18",
+      "idgo": "tv5",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/bigtits.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<=8={trpRU",
+      "headers": {},
+      "order": 160,
+      "verified": true,
+      "latencyMs": 504,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179663",
+      "title": "Digital Porno 3",
+      "idgo": "digipor3",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/hardcore.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^[+i.#DiTtrpRU",
+      "headers": {},
+      "order": 1433,
+      "verified": true,
+      "latencyMs": 517,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179610",
+      "title": "Sırına Tv",
+      "idgo": "sirina",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/interracial.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^8q=Tii+#8+PtrpRU",
+      "headers": {},
+      "order": 1380,
+      "verified": true,
+      "latencyMs": 518,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179607",
+      "title": "Dusk",
+      "idgo": "dusk",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/russian.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^iR{{8+qtrpRU",
+      "headers": {},
+      "order": 1377,
+      "verified": true,
+      "latencyMs": 539,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179467",
+      "title": "Visat Nature",
+      "idgo": "tarihtv",
+      "type": 6,
+      "url": "http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/19078/index.m3u8",
+      "rawUrl": "@y@@yy11@DPh8FlJDtRJr8qP=tlRq^8,=K^3A20v!I&~g3vfw^1!F2U^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://twitter.com/",
+        "Origin": "https://twitter.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1237,
+      "verified": true,
+      "latencyMs": 540,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179662",
+      "title": "Digital Porno 2",
+      "idgo": "digipor2",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/cuckold.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^#R#JDP.trpRU",
+      "headers": {
+        "User-Agent": "ELITDIGITALPlayer"
+      },
+      "order": 1432,
+      "verified": true,
+      "latencyMs": 540,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178435",
+      "title": "FB TV",
+      "idgo": "fb",
+      "type": 6,
+      "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+      "rawUrl": "@y@@yy1111@1[{Ji.=DtiD#JT=#.qt#Dr^lTqTis+[#T=Kt{r8P^,P+yP8{=trpRU",
+      "headers": {
+        "x-requested-with": "com.live.glg",
+        "User-Agent": "GolgeTV++"
+      },
+      "order": 205,
+      "verified": true,
+      "latencyMs": 541,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178394",
+      "title": "tv9 18",
+      "idgo": "tv9",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/bigass.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<+{{trpRU",
+      "headers": {},
+      "order": 164,
+      "verified": true,
+      "latencyMs": 550,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178392",
+      "title": "tv7 18",
+      "idgo": "tv7",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/fetish.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^lT=8{[trpRU",
+      "headers": {},
+      "order": 162,
+      "verified": true,
+      "latencyMs": 564,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179608",
+      "title": "SL PORNO 1",
+      "idgo": "slporno",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/bigdick.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<.8#JtrpRU",
+      "headers": {},
+      "order": 1378,
+      "verified": true,
+      "latencyMs": 575,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179605",
+      "title": "Blu Hustler",
+      "idgo": "bluhustler",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/pov.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^,DKtrpRU",
+      "headers": {},
+      "order": 1375,
+      "verified": true,
+      "latencyMs": 581,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179606",
+      "title": "Penthouse",
+      "idgo": "pentho",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/blowjob.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^sPDM}DstrpRU",
+      "headers": {},
+      "order": 1376,
+      "verified": true,
+      "latencyMs": 582,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179143",
+      "title": "TRT müzik",
+      "idgo": "trtmuzik",
+      "type": 6,
+      "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?anahtar=uDF6pIH_fTdrY4Fqsjgh2Q&sure=1632534330&ip=95.12.237.92",
+      "rawUrl": "@y@@yy1111@=K?=i=rRE8JtrT.y+t=i=t#Drt=i^r+{=Tik2LFtrpRUO+q+[=+iuRNSC,V3kl5.ivoS:{}<[L~;{RiTu1CpL6poppF;8,u!6t1LtLp2t!L",
+      "headers": {},
+      "order": 913,
+      "verified": true,
+      "latencyMs": 587,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179427",
+      "title": "Tv 6",
+      "idgo": "tv66",
+      "type": 6,
+      "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8",
+      "rawUrl": "@y@@yy1111@P8KTt+i=8.8}8=+PrT.y+t#Dr^+i=8.8}8=+Pk=8K8C^=8K8C^#[RqJ{trpRU",
+      "headers": {},
+      "order": 1197,
+      "verified": true,
+      "latencyMs": 639,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179280",
+      "title": "Redbul tv",
+      "idgo": "redbultv",
+      "type": 6,
+      "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8",
+      "rawUrl": "@y@@yy11@isrq?P8KTt+J+r+8ET.tqT=^[P{^P8KT^6!F!Co^mDIm?n5^r+{=Tik1CCFtrpRU",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36"
+      },
+      "order": 1050,
+      "verified": true,
+      "latencyMs": 659,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179418",
+      "title": "Epic Drama",
+      "idgo": "epicdrama",
+      "type": 6,
+      "url": "http://c3921155.edmonst.net/iptv/LY9PHWZHRXA5SE/6882/index.m3u8",
+      "rawUrl": "@y@@yy11@#p!L1166tT.rDq{=tqT=^8,=K^Xv!-34f3IHn6&Z^CUUL^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1188,
+      "verified": true,
+      "latencyMs": 662,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178962",
+      "title": "Çiftçi tv",
+      "idgo": "ciftcitv",
+      "type": 6,
+      "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8",
+      "rawUrl": "@y@@yy1111@P8KTt+i=8.8}8=+PrT.y+t#Dr^+i=8.8}8=+Pk#8l=#8=K^#8l=#8=K^#[RqJ{trpRU",
+      "headers": {},
+      "order": 732,
+      "verified": true,
+      "latencyMs": 666,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179432",
+      "title": "Bengü Türk",
+      "idgo": "bengut",
+      "type": 6,
+      "url": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8",
+      "rawUrl": "@y@@yy1111@=KtTq{Dq[+sTit#Dr^sTq<R=RiJ^sTq<R=RiJk2LF,trpRU",
+      "headers": {
+        "User-Agent": "desk_win32"
+      },
+      "order": 1202,
+      "verified": true,
+      "latencyMs": 681,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178499",
+      "title": "TV 8-5",
+      "idgo": "tv85",
+      "type": 6,
+      "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7wczn5n71y02&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3",
+      "rawUrl": "@y@@yy1111@=KUt.+8Dq#.qtqT=^=KUsR#RJ^=KUsR#RJk1FUF,trpRUO;{8.u2M#Eq6q21yFL;+,,usl6U+s6L?oUC6?o#U1?sLLp?LCso1FF!UF1T;#Tup",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0"
+      },
+      "order": 269,
+      "verified": true,
+      "latencyMs": 689,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178387",
+      "title": "2 TV 18",
+      "idgo": "tv2",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/gay.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^<+ytrpRU",
+      "headers": {
+        "User-Agent": "by.iptvprocopy/9.8 (Linux;Android 10) ExoPlayerLib/2.8.4"
+      },
+      "order": 157,
+      "verified": true,
+      "latencyMs": 694,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178388",
+      "title": "3 TV 18",
+      "idgo": "tv3",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/interracial.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^8q=Tii+#8+PtrpRU",
+      "headers": {},
+      "order": 158,
+      "verified": true,
+      "latencyMs": 700,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179604",
+      "title": "Hustler",
+      "idgo": "hustler",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/teen.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^=TTqtrpRU",
+      "headers": {},
+      "order": 1374,
+      "verified": true,
+      "latencyMs": 703,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179523",
+      "title": "Deniz Postası",
+      "idgo": "denizposta",
+      "type": 6,
+      "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8",
+      "rawUrl": "@y@@yy1111@P8KTt+i=8.8}8=+PrT.y+t#Dr^+i=8.8}8=+Pk.Tq8E,D{=+{8^.Tq8E,D{=+{8^#[RqJ{trpRU",
+      "headers": {},
+      "order": 1293,
+      "verified": true,
+      "latencyMs": 704,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179609",
+      "title": "SL FAMİLY PORNO",
+      "idgo": "slfamily",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/bigtits.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<=8={trpRU",
+      "headers": {},
+      "order": 1379,
+      "verified": true,
+      "latencyMs": 730,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179493",
+      "title": "Salon 3",
+      "idgo": "salon3",
+      "type": 6,
+      "url": "http://45.158.14.16/ZemTv/live/index.m3u8",
+      "rawUrl": "@y@@yy11@o6t16Ut1ot1C^fTr5K^P8KT^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1263,
+      "verified": true,
+      "latencyMs": 732,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179461",
+      "title": "Tv 8.5 Tr Goals",
+      "idgo": "tv85tr",
+      "type": 6,
+      "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7wczn5n71y02&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3",
+      "rawUrl": "@y@@yy1111@=KUt.+8Dq#.qtqT=^=KUsR#RJ^=KUsR#RJk1FUF,trpRUO;{8.u2M#Eq6q21yFL;+,,usl6U+s6L?oUC6?o#U1?sLLp?LCso1FF!UF1T;#Tup",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0"
+      },
+      "order": 1231,
+      "verified": true,
+      "latencyMs": 744,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178503",
+      "title": "ntv",
+      "idgo": "ntv",
+      "type": 6,
+      "url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sid=4nltxgifuue6&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3",
+      "rawUrl": "@y@@yy1111@.D<R{t.+8Dq#.qtqT=^q=K^q=Kk2LF,trpRUO{8.uoqP=h<8lRRTC;+,,u#CUs..sT?p.sl?o!l2?U!L+?!p.T6+Tp2l1l;#Tup",
+      "headers": {},
+      "order": 273,
+      "verified": true,
+      "latencyMs": 760,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179054",
+      "title": "Trt spor 2",
+      "idgo": "trts2",
+      "type": 6,
+      "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=74edifq4t9bg&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2",
+      "rawUrl": "@y@@yy1111@=i=t.+8Dq#.qtqT=^=i={,Di?y8P.8E^r+{=Tik1FUF,trpRUO;{8.u2oT.8l:o=!s<;+,,u!lUo!sU#?2l#F?oC+L?+!T#?llUTLsp6!CF.;#TuL",
+      "headers": {
+        "Referer": "https://www.tabii.com/",
+        "Origin": "https://www.tabii.com",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
+      },
+      "order": 824,
+      "verified": true,
+      "latencyMs": 765,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179162",
+      "title": "TV 100",
+      "idgo": "tv100",
+      "type": 6,
+      "url": "https://tv.ensonhaber.com/tv100/tv100_1080p.m3u8",
+      "rawUrl": "@y@@yy1111@=KtTq{Dq[+sTit#Dr^=K1FF^=K1FFk1FUF,trpRU",
+      "headers": {
+        "Referer": "https://taraftarium1078.xyz/",
+        "Origin": "https://taraftarium1078.xyz",
+        "Accept": "*/*",
+        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
+      },
+      "order": 932,
+      "verified": true,
+      "latencyMs": 769,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179382",
+      "title": "Bein Movies Pre 1",
+      "idgo": "beinmpre",
+      "type": 6,
+      "url": "https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8",
+      "rawUrl": "@y@@yy1111@[D{=tDqP8qTi+.yD=KtqT=%UFU1^{.r=K^=i+#J{?K1+1^rDqDtrpRU",
+      "headers": {
+        "Referer": "https://example.com/",
+        "Origin": "https://example.com",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
+      },
+      "order": 1152,
+      "verified": true,
+      "latencyMs": 773,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179440",
+      "title": "Trt Çocuk",
+      "idgo": "trtcocuk",
+      "type": 6,
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8?anahtar=4H0lLq41FiEcT8C_T8c1AA&sure=1696233598&ip=31.223.13.91",
+      "rawUrl": "@y@@yy1111@=K?=i=#D#RJtrT.y+t=i=t#Drt=i^r+{=Tik2LFtrpRUO+q+[=+iuo3FPX:o1S8Z#5Ugk5U#1nn;{RiTu1C!CLpp6!U;8,up1tLLpt1pt!1",
+      "headers": {
+        "Referer": "https://b.kuzeytv.com/",
+        "Origin": "https://b.kuzeytv.com",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36"
+      },
+      "order": 1210,
+      "verified": true,
+      "latencyMs": 795,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178386",
+      "title": "1 TV 18",
+      "idgo": "tv1",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz:80/livecams.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE%UF^P8KT#+r{trpRU",
+      "headers": {
+        "User-Agent": "iptvcoronakorbuna"
+      },
+      "order": 156,
+      "verified": true,
+      "latencyMs": 831,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179501",
+      "title": "Salon 8",
+      "idgo": "salon8",
+      "type": 6,
+      "url": "http://c3921155.edmonst.net/iptv/7T8KD5UY3TXLY8/6812/index.m3u8",
+      "rawUrl": "@y@@yy11@#p!L1166tT.rDq{=tqT=^8,=K^25UwN6Wvp5HXvU^CU1L^8q.ThtrpRU",
+      "headers": {
+        "Accept": "*/*",
+        "Range": "bytes=0-",
+        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+      },
+      "order": 1271,
+      "verified": true,
+      "latencyMs": 836,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178491",
+      "title": "Atv",
+      "idgo": "atv",
+      "type": 6,
+      "url": "https://blcco.linkip.org/live/562_.m3u8",
+      "rawUrl": "@y@@yy1111@sP##DtP8qJ8,tDi<^P8KT^6CLktrpRU",
+      "headers": {
+        "Referer": "https://taraftarium1083.xyz/",
+        "Origin": "https://taraftarium1083.xyz",
+        "Accept": "*/*",
+        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
+      },
+      "order": 261,
+      "verified": true,
+      "latencyMs": 859,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178497",
+      "title": "tv8",
+      "idgo": "tv88",
+      "type": 6,
+      "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7tv4oszs1118&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+      "rawUrl": "@y@@yy1111@=KUt.+8Dq#.qtqT=^=KU^=KUk1FUF,trpRUO;{8.u2=KoD{E{111U;+,,u2..#L66+?Tlo2?oTU1?+s1o?#FT6lL!o!2UU;#Tup",
+      "headers": {
+        "User-Agent": "desk_win32"
+      },
+      "order": 267,
+      "verified": true,
+      "latencyMs": 885,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178508",
+      "title": "360 tv",
+      "idgo": "360",
+      "type": 6,
+      "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+      "rawUrl": "@y@@yy1111@=RiJrT.y+?P8KTtTi#.qtqT=^=KpCF^=KpCFk2LF,trpRU",
+      "headers": {},
+      "order": 278,
+      "verified": true,
+      "latencyMs": 903,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178285",
+      "title": "TJK TV",
+      "idgo": "tjk",
+      "type": 6,
+      "url": "https://tjktv-live.tjk.org/tjktv_720p.m3u8",
+      "rawUrl": "@y@@yy1111@=}J=K?P8KTt=}JtDi<^=}J=Kk2LF,trpRU",
+      "headers": {},
+      "order": 55,
+      "verified": true,
+      "latencyMs": 912,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179217",
+      "title": "History",
+      "idgo": "his",
+      "type": 6,
+      "url": "https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8",
+      "rawUrl": "@y@@yy1111@8,ooti+.yD=TPTJDr=Kt#Dr%p6oU^[ysi8.^,P+ytrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 987,
+      "verified": true,
+      "latencyMs": 914,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179494",
+      "title": "Salon 5",
+      "idgo": "salon5",
+      "type": 6,
+      "url": "https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8",
+      "rawUrl": "@y@@yy1111@[D{=tDqP8qTi+.yD=KtqT=%UFU1^{.r=K^=i+#J{?K1+1^rDqDtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1264,
+      "verified": true,
+      "latencyMs": 919,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179500",
+      "title": "Salon 7",
+      "idgo": "salon7",
+      "type": 6,
+      "url": "https://blcco.linkip.org/live/554_.m3u8",
+      "rawUrl": "@y@@yy1111@sP##DtP8qJ8,tDi<^P8KT^66oktrpRU",
+      "headers": {
+        "Referer": "https://twiter.com/",
+        "Origin": "https://twiter.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1270,
+      "verified": true,
+      "latencyMs": 996,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178492",
+      "title": "kanald",
+      "idgo": "kanald",
+      "type": 6,
+      "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web",
+      "rawUrl": "@y@@yy1111@.Tr8iDiTqt.+8Dq#.qtqT=^J+q+P.^J+q+P.trpRUO+,,uJ+q+P.kMTs",
+      "headers": {
+        "Cookie": "Cookie:: ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m; emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc; eSessionId=0",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
+      },
+      "order": 262,
+      "verified": true,
+      "latencyMs": 1021,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178279",
+      "title": "Trt Belgesel",
+      "idgo": "trtb",
+      "type": 6,
+      "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+      "rawUrl": "@y@@yy1111@=K?=i=sTP<T{TPtrT.y+t=i=t#Drt=i^r+{=TitrpRU",
+      "headers": {},
+      "order": 49,
+      "verified": true,
+      "latencyMs": 1043,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178282",
+      "title": "TLC TV",
+      "idgo": "tlc",
+      "type": 6,
+      "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web",
+      "rawUrl": "@y@@yy1111@.D<R{t.+8Dq#.qtqT=^=P#^=P#trpRUO+,,u=P#kMTs",
+      "headers": {},
+      "order": 52,
+      "verified": true,
+      "latencyMs": 1099,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179499",
+      "title": "Salon 6",
+      "idgo": "salon6",
+      "type": 6,
+      "url": "https://blcco.linkip.org/live/550_.m3u8",
+      "rawUrl": "@y@@yy1111@sP##DtP8qJ8,tDi<^P8KT^66FktrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1269,
+      "verified": true,
+      "latencyMs": 1118,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178391",
+      "title": "6 tv 18",
+      "idgo": "tv6",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/interracial.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^8q=Tii+#8+PtrpRU",
+      "headers": {},
+      "order": 161,
+      "verified": true,
+      "latencyMs": 1126,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178490",
+      "title": "STAR TV",
+      "idgo": "startv",
+      "type": 6,
+      "url": "https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web",
+      "rawUrl": "@y@@yy1111@.D<R{t.+8Dq#.qtqT=^{=+i=K^{=+i=KtrpRUO+,,u{=+i=KkMTs",
+      "headers": {},
+      "order": 260,
+      "verified": true,
+      "latencyMs": 1129,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178750",
+      "title": "TRT SPOR",
+      "idgo": "trtspor",
+      "type": 6,
+      "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+      "rawUrl": "@y@@yy1111@=K?=i={,Di1trT.y+t=i=t#Drt=i^r+{=TitrpRU",
+      "headers": {
+        "Referer": "https://www.trtspor.com.tr/",
+        "Origin": "https://www.trtspor.com.tr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48"
+      },
+      "order": 520,
+      "verified": true,
+      "latencyMs": 1147,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179434",
+      "title": "Bloomberg Tv",
+      "idgo": "bloom",
+      "type": 6,
+      "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
+      "rawUrl": "@y@@yy1111@#8qTit.+8Dq#.qtqT=^sPDDrsTi<[=^sPDDrsTi<[=trpRU",
+      "headers": {
+        "Referer": "https://www.tvheryerde.com.tr/",
+        "Origin": "https://www.tvheryerde.com.tr",
+        "User-Agent": "Mozilla/5.0"
+      },
+      "order": 1204,
+      "verified": true,
+      "latencyMs": 1153,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179316",
+      "title": "Tv 8 Kablo",
+      "idgo": "tv8kablo",
+      "type": 6,
+      "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7tv08bnv0w08&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+      "rawUrl": "@y@@yy1111@=KUt.+8Dq#.qtqT=^=KU^=KUk1FUF,trpRUO;{8.u2=KFUsqKFMFU;+,,u2..#L66+?Tlo2?oTU1?+s1o?#FT6lL!o!2UU;#Tup",
+      "headers": {
+        "Referer": "https://b.kuzeytv.com/",
+        "Origin": "https://b.kuzeytv.com",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      },
+      "order": 1086,
+      "verified": true,
+      "latencyMs": 1166,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178505",
+      "title": "HABER TÜRK",
+      "idgo": "haberturk",
+      "type": 6,
+      "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
+      "rawUrl": "@y@@yy1111@ir=l=s}PqTt=RiJqT=tTi#.qtqT=^s,Ty=rq:y,^[+sTi=RiJ=K^[+sTi=RiJ=KtrpRU",
+      "headers": {},
+      "order": 275,
+      "verified": true,
+      "latencyMs": 1171,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179704",
+      "title": "Yaban Tv",
+      "idgo": "yaban",
+      "type": 6,
+      "url": "http://c3921155.edmonst.net/iptv/ESMHU7B3S7N5NW/6868/index.m3u8",
+      "rawUrl": "@y@@yy11@#p!L1166tT.rDq{=tqT=^8,=K^Z&>3W2mp&20604^CUCU^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://www.canlitv.top/embed/?id=12044",
+        "Origin": "https://www.canlitv.top/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      "order": 1474,
+      "verified": true,
+      "latencyMs": 1186,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179572",
+      "title": "S Sport 1 - B",
+      "idgo": "ssportb",
+      "type": 6,
+      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebiraz1.m3u8",
+      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{L^{=iT+rk+q.iD{=iT+rP8KTs8i+E1trpRU",
+      "headers": {
+        "Referer": "https://mahsunsports80.xyz/",
+        "Origin": "https://mahsunsports80.xyz",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0"
+      },
+      "order": 1342,
+      "verified": true,
+      "latencyMs": 1187,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179141",
+      "title": "Ülke tv",
+      "idgo": "ulketv",
+      "type": 6,
+      "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
+      "rawUrl": "@y@@yy1111@P8KT=Kti+.yD=KDqP8qTtqT=^J+q+P2P8KT^RPJT=K^,P+yP8{=trpRU",
+      "headers": {
+        "Referer": "https://www.tvheryerde.com.tr/",
+        "Origin": "https://www.tvheryerde.com.tr",
+        "User-Agent": "Mozilla/5.0"
+      },
+      "order": 911,
+      "verified": true,
+      "latencyMs": 1200,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179137",
+      "title": "Halk tv",
+      "idgo": "halktv",
+      "type": 6,
+      "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+      "rawUrl": "@y@@yy1111@[+PJ=K?P8KTt.+8Dq#.qtqT=^[+PJ=K^[+PJ=KtrpRU",
+      "headers": {},
+      "order": 907,
+      "verified": true,
+      "latencyMs": 1233,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179666",
+      "title": "Ht Spor",
+      "idgo": "htspor",
+      "type": 6,
+      "url": "https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8",
+      "rawUrl": "@y@@yy1111@#8qTi?P8KTtTi#.qtqT=^[={,Di^[={,Dik1FUF,trpRU",
+      "headers": {},
+      "order": 1436,
+      "verified": true,
+      "latencyMs": 1237,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179652",
+      "title": "Tabi Spor 5",
+      "idgo": "tabi5",
+      "type": 6,
+      "url": "https://vl2nq8sh4tw1mr7xp5zk9gj3y.medya.trt.com.tr/master.m3u8",
+      "rawUrl": "@y@@yy1111@KPLq:U{[o=M1ri2h,6EJ!<}pytrT.y+t=i=t#Drt=i^r+{=TitrpRU",
+      "headers": {
+        "Referer": "https://bunnycdn205.xyz/",
+        "Origin": "https://bunnycdn205.xyz",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
+      },
+      "order": 1422,
+      "verified": true,
+      "latencyMs": 1257,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179429",
+      "title": "Bein Spor 1 - B",
+      "idgo": "beins1b",
+      "type": 6,
+      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebiraz1.m3u8",
+      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{L^{=iT+rk+q.iD{=iT+rP8KTs8i+E1trpRU",
+      "headers": {
+        "Referer": "https://30slotintv.live/",
+        "Origin": "https://30slotintv.live",
+        "Accept": "*/*",
+        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
+      },
+      "order": 1199,
+      "verified": true,
+      "latencyMs": 1261,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179417",
+      "title": "Film Scren",
+      "idgo": "moviesturk",
+      "type": 6,
+      "url": "https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8",
+      "rawUrl": "@y@@yy1111@T.<T?TptTKi8.TDt=K^lL.#sT#l?6+lF?o2.s?+ULT?FpL11LF6F+Lpk1FFFFL2poCk3X&^r+q8lT{=trpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1187,
+      "verified": true,
+      "latencyMs": 1294,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178501",
+      "title": "kanal7",
+      "idgo": "kanal7",
+      "type": 6,
+      "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+      "rawUrl": "@y@@yy1111@J+q+P2?P8KTt.+8Dq#.qtqT=^J+q+P2^J+q+P2trpRU",
+      "headers": {},
+      "order": 271,
+      "verified": true,
+      "latencyMs": 1304,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179011",
+      "title": "Sözcü Tv",
+      "idgo": "tgrth",
+      "type": 6,
+      "url": "https://helga.iptv2022.com/szc_tv/index.m3u8",
+      "rawUrl": "@y@@yy1111@[TP<+t8,=KLFLLt#Dr^{E#k=K^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://turkcanli.tv/",
+        "Origin": "https://turkcanli.tv",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"
+      },
+      "order": 781,
+      "verified": true,
+      "latencyMs": 1316,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178281",
+      "title": "DOCUBOX",
+      "idgo": "docu",
+      "type": 6,
+      "url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay",
+      "rawUrl": "@y@@yy1111@+r<FFF!F?sPRT+q=rT.8+?q+=RiT=8rT?{+r{Rq<li?y+Jslt+r+<8t=K^,P+yP8{=^+r<FFF!F?sPRT+q=rT.8+?q+=RiT=8rT?{+r{Rq<li^,P+yP8{=trpRUO#[T#JT.sy%>y4+y",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 51,
+      "verified": true,
+      "latencyMs": 1332,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179468",
+      "title": "Trt Spor Stream",
+      "idgo": "trtss",
+      "type": 6,
+      "url": "https://helga.iptv2022.com/sh/trt_spor/index.m3u8",
+      "rawUrl": "@y@@yy1111@[TP<+t8,=KLFLLt#Dr^{[^=i=k{,Di^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://turkcanli.tv",
+        "Cookie": "https://turkcanli.tv",
+        "X-LHD-Agent": "{\\\"platform\\\":\\\"web\\\",\\\"app\\\":\\\"turkcanli.tv\\\",\\\"device_id\\\":\\\"584430.438632503-1768665393984\\\"}",
+        "sec-ch-ua": "\\\"Android WebView\\\";v=\\\"143\\\", \\\"Chromium\\\";v=\\\"143\\\", \\\"Not A(Brand\\\";v=\\\"24\\\"",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      },
+      "order": 1238,
+      "verified": true,
+      "latencyMs": 1348,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178493",
+      "title": "Show Tv",
+      "idgo": "showtv",
+      "type": 6,
+      "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web",
+      "rawUrl": "@y@@yy1111@#8qTit.+8Dq#.qtqT=^{[DM=K^{[DM=KtrpRUO+,,u{[DM=KkMTs",
+      "headers": {
+        "Referer": "https://www.google.com/",
+        "User-Agent": "radar.v2/9.8 (Linux;Android 11) AndroidXMedia3/1.1.1"
+      },
+      "order": 263,
+      "verified": true,
+      "latencyMs": 1358,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178500",
+      "title": "teve2",
+      "idgo": "teve2",
+      "type": 6,
+      "url": "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
+      "rawUrl": "@y@@yy1111@P8KTt.R[qT=t=K^&L^3X&kXVAZ^=TKTLq,^,P+yP8{=trpRU",
+      "headers": {},
+      "order": 270,
+      "verified": true,
+      "latencyMs": 1366,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179435",
+      "title": "Flash Haber",
+      "idgo": "flashh",
+      "type": 6,
+      "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8",
+      "rawUrl": "@y@@yy1111@lP+{[[+sTi?P8KTtTi#.qtqT=^lP+{[[+sTi^lP+{[[+sTik1FUF,trpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "User-Agent": "calma"
+      },
+      "order": 1205,
+      "verified": true,
+      "latencyMs": 1371,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178844",
+      "title": "A Spor",
+      "idgo": "aspor",
+      "type": 6,
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+      "rawUrl": "@y@@yy1111@iq==Mr}#8qt=RiJqT=tTi#.qtqT=^P#,rKTlsyD^+{,Di^+{,DitrpRU",
+      "headers": {
+        "Referer": "https://trgoals1250.xyz/",
+        "Origin": "https://trgoals1250.xyz",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
+      },
+      "order": 614,
+      "verified": true,
+      "latencyMs": 1383,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179400",
+      "title": "Star Tv Kablo",
+      "idgo": "starkabo",
+      "type": 6,
+      "url": "https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8p6rwl429kfa&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=2%20#EXTINF:-1%20tvg-name=%22TV%208%22%20tvg-id=%22%22%20tvg-logo=%22https://imgs.search.brave.com/OjYN02PMadfM-5wK12rHI66fq_jdflScTuMdKdwaj5k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9maWxl/cy5zaWtheWV0dmFy/LmNvbS9sZy9jbXAv/MTEvMTE3Mi5wbmc_/MTUyMjY1MDEyNQ",
+      "rawUrl": "@y@@yy1111@=+=+=+rt=i=1{RP=+ql+=8[{{tMDiJTi{t.TK^@yy1111@.D<R{t.+8Dq#.qtqT=^{=+i=K^{=+i=Kk2LF,trpRUO;{8.uU,CiMPoL!Jl+;+,,u+LF+#o1T?s.#p?o++1?!po.?LCsoUooUF+#!;#TuLYLFxZH5V0S%?1YLF=K<?q+rTuYLL5AYLFUYLLYLF=K<?8.uYLLYLLYLF=K<?PD<DuYLL@yy1111@8r<{t{T+i#[tsi+KTt#Dr^j}v0FL->+.l>?6Mw1Li3VCCl:k}.lP&#5R>.w.M+}6J^i{%l8=%6FF%F%1%F^<%#T^+3IF#3>CXy!r+4hP^#y6E+4=[T4AF.rSy^Xr0Ks&!{fy!}sHnK^>5ZK>5Zp>86Msr#k^>5Wy>}v1>NZy0~",
+      "headers": {
+        "Referer": "https://tv.ecanlitvizle.org/",
+        "Origin": "https://tv.ecanlitvizle.org",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; M2003J15SC Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36"
+      },
+      "order": 1170,
+      "verified": true,
+      "latencyMs": 1436,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178507",
+      "title": "24 tv",
+      "idgo": "24tv",
+      "type": 6,
+      "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+      "rawUrl": "@y@@yy1111@=RiJrT.y+?P8KTtTi#.qtqT=^=KLo^=KLotrpRU",
+      "headers": {},
+      "order": 277,
+      "verified": true,
+      "latencyMs": 1448,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179287",
+      "title": "Bein 3 Trgoals",
+      "idgo": "bein3s",
+      "type": 6,
+      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs3.m3u8",
+      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{L^{=iT+rk+q.iD{=iT+rP8KTs{ptrpRU",
+      "headers": {
+        "Referer": "https://atomsportv501.top/",
+        "Origin": "https://atomsportv501.top",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
+      },
+      "order": 1057,
+      "verified": true,
+      "latencyMs": 1455,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179439",
+      "title": "Tbmm Tv",
+      "idgo": "tbmmtv",
+      "type": 6,
+      "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+      "rawUrl": "@y@@yy1111@rT#P8{=K?P8KTtTi#.qtqT=^rT#P8{=K^rT#P8{=KtrpRU",
+      "headers": {},
+      "order": 1209,
+      "verified": true,
+      "latencyMs": 1467,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178275",
+      "title": "bbce hd",
+      "idgo": "bbce",
+      "type": 6,
+      "url": "http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6854/index.m3u8",
+      "rawUrl": "@y@@yy11@DPh8FlJDtRJr8qP=tlRq^8,=K^3A20v!I&~g3vfw^CU6o^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 45,
+      "verified": true,
+      "latencyMs": 1476,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179697",
+      "title": "Vip Porn 1",
+      "idgo": "vip1",
+      "type": 6,
+      "url": "http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8",
+      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=ksi+EETi{k[.k[TK#^,P+yP8{=trpRU",
+      "headers": {
+        "User-Agent": "Linux; Android 9; CLT-L09"
+      },
+      "order": 1467,
+      "verified": true,
+      "latencyMs": 1489,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179392",
+      "title": "Viasat Explore",
+      "idgo": "vekablo",
+      "type": 6,
+      "url": "https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8",
+      "rawUrl": "@y@@yy1111@.+!#o!l+tMRiPt#Dr^r+{=Ti^lpC.L6T2T6Ll1s+U.2T6CTsU6!#CpC6CpL1ol6o1^WrSi.HIPsPI4XHm{H1f,vH0[.ZAo#/hK#rAl&Zh5^,P+yP8{=trpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1162,
+      "verified": true,
+      "latencyMs": 1490,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179649",
+      "title": "Tabi Spor 2",
+      "idgo": "tabi2",
+      "type": 6,
+      "url": "https://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master.m3u8",
+      "rawUrl": "@y@@yy1111@riUsKoJP1q:2{[!=MLh,6E}C<trT.y+t=i=t#Drt=i^r+{=TitrpRU",
+      "headers": {
+        "Referer": "https://bunnycdn205.xyz/",
+        "Origin": "https://bunnycdn205.xyz",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
+      },
+      "order": 1419,
+      "verified": true,
+      "latencyMs": 1492,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178278",
+      "title": "D Max",
+      "idgo": "dmax",
+      "type": 6,
+      "url": "https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web",
+      "rawUrl": "@y@@yy1111@.D<R{t.+8Dq#.qtqT=^.r+h^.r+htrpRUO+,,u.r+hkMTs",
+      "headers": {},
+      "order": 48,
+      "verified": true,
+      "latencyMs": 1527,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178502",
+      "title": "Beyaz tv",
+      "idgo": "beyaztv",
+      "type": 6,
+      "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
+      "rawUrl": "@y@@yy1111@sTy+E=K?P8KTt.+8Dq#.qtqT=^sTy+E=K^sTy+E=KtrpRU",
+      "headers": {},
+      "order": 272,
+      "verified": true,
+      "latencyMs": 1533,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179702",
+      "title": "Vip Porn 6",
+      "idgo": "vip6",
+      "type": 6,
+      "url": "http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8",
+      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=kTh=+{yk[.k[TK#^,P+yP8{=trpRU",
+      "headers": {},
+      "order": 1472,
+      "verified": true,
+      "latencyMs": 1534,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179350",
+      "title": "Bein 2 Tr Goals",
+      "idgo": "bein2hd",
+      "type": 6,
+      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs2.m3u8",
+      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{L^{=iT+rk+q.iD{=iT+rP8KTs{LtrpRU",
+      "headers": {
+        "Referer": "https://30slotintv.live/",
+        "Origin": "https://30slotintv.live",
+        "Accept": "*/*",
+        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
+      },
+      "order": 1120,
+      "verified": true,
+      "latencyMs": 1541,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179669",
+      "title": "Tabi Spor 1",
+      "idgo": "tabi11",
+      "type": 6,
+      "url": "https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8",
+      "rawUrl": "@y@@yy1111@,Eo:=2qM1ri!{[LKP6hJU}<pytrT.y+t=i=t#Drt=i^r+{=TitrpRU",
+      "headers": {
+        "Referer": "https://bunnycdn205.xyz/",
+        "Origin": "https://bunnycdn205.xyz",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
+      },
+      "order": 1439,
+      "verified": true,
+      "latencyMs": 1589,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179279",
+      "title": "Sinema Komedi",
+      "idgo": "sinemakome",
+      "type": 6,
+      "url": "https://seep.eu.org/https://65.108.239.207/sinemakomedi/index.m3u8",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy1111@C6t1FUtLp!tLF2^{8qTr+JDrT.8^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1049,
+      "verified": true,
+      "latencyMs": 1741,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179651",
+      "title": "Tabi Spor 4",
+      "idgo": "tabi4",
+      "type": 6,
+      "url": "https://sh7tq2nw5mr1vl9xp4zk3gj8k.medya.trt.com.tr/master.m3u8",
+      "rawUrl": "@y@@yy1111@{[2=:LqM6ri1KP!h,oEJp<}UJtrT.y+t=i=t#Drt=i^r+{=TitrpRU",
+      "headers": {
+        "Referer": "https://bunnycdn205.xyz/",
+        "Origin": "https://bunnycdn205.xyz",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
+      },
+      "order": 1421,
+      "verified": true,
+      "latencyMs": 1823,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179277",
+      "title": "Sinema 1001",
+      "idgo": "sinema1001",
+      "type": 6,
+      "url": "https://seep.eu.org/https://65.108.239.207/sinema1001/index.m3u8",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy1111@C6t1FUtLp!tLF2^{8qTr+1FF1^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1047,
+      "verified": true,
+      "latencyMs": 2078,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179672",
+      "title": "Tv 8 Tr Goals",
+      "idgo": "tv8trgoals",
+      "type": 6,
+      "url": "https://tatatam.trt1sultanfatihss.workers.dev/https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web",
+      "rawUrl": "@y@@yy1111@=+=+=+rt=i=1{RP=+ql+=8[{{tMDiJTi{t.TK^@yy1111@=KUt.+8Dq#.qtqT=^=KU^=KUk1FUF,trpRUO+,,u=KUkMTs",
+      "headers": {
+        "x-lhd-agent": "{",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
+      },
+      "order": 1442,
+      "verified": true,
+      "latencyMs": 2080,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179208",
+      "title": "Chasse",
+      "idgo": "chasse",
+      "type": 6,
+      "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8",
+      "rawUrl": "@y@@yy1111@,P+yP8{=tl+{==K#.qt#Dr^,P^iliJ!UL1[.y!.+yDUMly[+^#[8PP?=K^,P+yP8{=^FtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; A5010 Build/PI)"
+      },
+      "order": 978,
+      "verified": true,
+      "latencyMs": 2133,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179495",
+      "title": "Salon 4",
+      "idgo": "salon4",
+      "type": 6,
+      "url": "https://yayin.venomlink.com/live/mystream/index.m3u8",
+      "rawUrl": "@y@@yy1111@y+y8qtKTqDrP8qJt#Dr^P8KT^ry{=iT+r^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1265,
+      "verified": true,
+      "latencyMs": 2150,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179665",
+      "title": "S Sport Plus - 2",
+      "idgo": "sportspb",
+      "type": 6,
+      "url": "https://css.d6e3eae5e065d5.help//beintv/tracks-v1a1/mono.m3u8",
+      "rawUrl": "@y@@yy1111@#{{t.CTpT+T6TFC6.6t[TP,^^sT8q=K^=i+#J{?K1+1^rDqDtrpRU",
+      "headers": {
+        "Referer": "https://www.atomsportv519.top/",
+        "Origin": "https://www.atomsportv519.top",
+        "Accept": "*/*",
+        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      },
+      "order": 1435,
+      "verified": true,
+      "latencyMs": 2178,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179698",
+      "title": "Vip Porn 2",
+      "idgo": "vip2",
+      "type": 6,
+      "url": "http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8",
+      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=k.T{8iTk[.k[TK#^,P+yP8{=trpRU",
+      "headers": {},
+      "order": 1468,
+      "verified": true,
+      "latencyMs": 2204,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38180624",
+      "title": "A Haber",
+      "idgo": "ahaber",
+      "type": 6,
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8",
+      "rawUrl": "@y@@yy1111@iq==Mr}#8qt=RiJqT=tTi#.qtqT=^P#,rKTlsyD^+[+sTi^+[+sTik1FUF,trpRU",
+      "headers": {},
+      "order": 1518,
+      "verified": true,
+      "latencyMs": 2214,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179699",
+      "title": "Vip Porn 3",
+      "idgo": "vip3",
+      "type": 6,
+      "url": "http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8",
+      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=kTiDhk[.k[TK#^,P+yP8{=trpRU",
+      "headers": {},
+      "order": 1469,
+      "verified": true,
+      "latencyMs": 2238,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179138",
+      "title": "Tele 1",
+      "idgo": "tele1",
+      "type": 6,
+      "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+      "rawUrl": "@y@@yy1111@=TPT1?P8KTtTi#.qtqT=^=TPT1^=TPT1trpRU",
+      "headers": {},
+      "order": 908,
+      "verified": true,
+      "latencyMs": 2253,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178506",
+      "title": "haber global",
+      "idgo": "global",
+      "type": 6,
+      "url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
+      "rawUrl": "@y@@yy1111@=KtTq{Dq[+sTit#Dr^[+sTi<PDs+P^[+sTi<PDs+Pk2LF,trpRU",
+      "headers": {
+        "User-Agent": "calma"
+      },
+      "order": 276,
+      "verified": true,
+      "latencyMs": 2293,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179383",
+      "title": "Bein Movies Pre 2",
+      "idgo": "beinmpre2",
+      "type": 6,
+      "url": "https://seep.eu.org/http://65.108.239.207/bsseries1/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^s{{Ti8T{1^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1153,
+      "verified": true,
+      "latencyMs": 2443,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179281",
+      "title": "Sinema Aksiyon",
+      "idgo": "sinemaaksi",
+      "type": 6,
+      "url": "https://seep.eu.org/https://65.108.239.207/sinemaaksiyon2/index.m3u8",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy1111@C6t1FUtLp!tLF2^{8qTr++J{8yDqL^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1051,
+      "verified": true,
+      "latencyMs": 2458,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
       "id": "38178265",
       "title": "BEİN ACTİON",
       "idgo": "action",
@@ -24,6 +1484,121 @@
       "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
+      "id": "38178434",
+      "title": "BEİN ACTİON 2",
+      "idgo": "action2",
+      "type": 6,
+      "url": "https://seep.eu.org/http://65.108.239.207/bspremier1/index.m3u8",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^s{,iTr8Ti1^8q.ThtrpRU",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 204,
+      "verified": true,
+      "latencyMs": 2567,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179286",
+      "title": "Bein 2 A Radar",
+      "idgo": "bein2sd",
+      "type": 6,
+      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-2.m3u8",
+      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{p^sT8q?{,Di={?LtrpRU",
+      "headers": {
+        "Referer": "https://www.atomsportv513.top/",
+        "Origin": "https://www.atomsportv513.top",
+        "Accept": "*/*",
+        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/537.36"
+      },
+      "order": 1056,
+      "verified": true,
+      "latencyMs": 2693,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178433",
+      "title": "Bein Starts",
+      "idgo": "starts",
+      "type": 6,
+      "url": "https://seep.eu.org/http://65.108.239.207/bsstars/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^s{{=+i{^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com/",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 203,
+      "verified": true,
+      "latencyMs": 2695,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179700",
+      "title": "Vip Porn 4",
+      "idgo": "vip4",
+      "type": 6,
+      "url": "http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8",
+      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=kTiDhhhk[.k[TK#^,P+yP8{=trpRU",
+      "headers": {},
+      "order": 1470,
+      "verified": true,
+      "latencyMs": 2718,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179264",
+      "title": "A Spor Yedek",
+      "idgo": "aspor2",
+      "type": 6,
+      "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8?token=YYpuTUJzg4XwJaen2kc46w&tms=1770989701",
+      "rawUrl": "@y@@yy11@iq==Mr}#8qt=RiJqT=tTi#.qtqT=^P#,rKTlsyD^+{,Di^+{,DitrpRUO=DJTquvv,R5W7E<oHM7+TqLJ#oCM;=r{u122F!U!2F1",
+      "headers": {
+        "Referer": "https://localhost/",
+        "Origin": "https://localhost/",
+        "User-Agent": "calma"
+      },
+      "order": 1034,
+      "verified": true,
+      "latencyMs": 2732,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179375",
+      "title": "Sinema Tv 1",
+      "idgo": "sinema1y",
+      "type": 6,
+      "url": "https://seep.eu.org/http://65.108.239.207/bsseries2/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^s{{Ti8T{L^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1145,
+      "verified": true,
+      "latencyMs": 2747,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179661",
+      "title": "Digital Porno 1",
+      "idgo": "digipor1",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/bigass.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<+{{trpRU",
+      "headers": {
+        "User-Agent": "ELITDIGITALPlayer"
+      },
+      "order": 1431,
+      "verified": true,
+      "latencyMs": 2786,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
       "id": "38178266",
       "title": "BEİN TÜRK",
       "idgo": "bturk",
@@ -39,6 +1614,149 @@
       "verified": true,
       "latencyMs": 3283,
       "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179404",
+      "title": "Bein 2 C",
+      "idgo": "bein2c",
+      "type": 6,
+      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-2.m3u8",
+      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{p^sT8q?{,Di={?LtrpRU",
+      "headers": {
+        "Referer": "https://www.atomsportv513.top/",
+        "Origin": "https://www.atomsportv513.top",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
+      },
+      "order": 1174,
+      "verified": true,
+      "latencyMs": 3320,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179295",
+      "title": "Fx",
+      "idgo": "fx",
+      "type": 6,
+      "url": "https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432",
+      "rawUrl": "@y@@yy1111@{+i+q?P8KTtTi#.qtqT=^lh^8q.ThtrpRUO{=uRDk=8NKVETIi5VyfoFLm!<;Tu12pUL2UopL",
+      "headers": {
+        "Accept": "*/*",
+        "Range": "bytes=0-",
+        "User-Agent": "Mozilla/5.0"
+      },
+      "order": 1065,
+      "verified": true,
+      "latencyMs": 3704,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179471",
+      "title": "Bein Box 2",
+      "idgo": "beinbox22",
+      "type": 6,
+      "url": "https://seep.eu.org/http://65.108.239.207/box2/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^sDhL^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1241,
+      "verified": true,
+      "latencyMs": 3809,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178495",
+      "title": "NOW",
+      "idgo": "foxtv",
+      "type": 6,
+      "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8",
+      "rawUrl": "@y@@yy1111@Ry#yyRREy[t=RiJqT=tTi#.qtqT=^q,[8q.<y=M^qDM=K^qDM=Kk2LF,trpRU",
+      "headers": {
+        "Referer": "https://turkcanli.tv",
+        "Origin": "https://turkcanli.tv",
+        "X-LHD-Agent": "{\\",
+        "sec-ch-ua": "\\",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      },
+      "order": 265,
+      "verified": true,
+      "latencyMs": 4021,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38178389",
+      "title": "4 TV 18",
+      "idgo": "tv4",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/lesbian.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^PT{s8+qtrpRU",
+      "headers": {},
+      "order": 159,
+      "verified": true,
+      "latencyMs": 4514,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179701",
+      "title": "Vip Porn 5",
+      "idgo": "vip5",
+      "type": 6,
+      "url": "http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8",
+      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=ks+{sT{k[.k[TK#^,P+yP8{=trpRU",
+      "headers": {},
+      "order": 1471,
+      "verified": true,
+      "latencyMs": 4967,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38178393",
+      "title": "tv8 18",
+      "idgo": "tv8",
+      "type": 6,
+      "url": "http://live.redtraffic.xyz/pornstar.m3u8",
+      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^,Diq{=+itrpRU",
+      "headers": {},
+      "order": 163,
+      "verified": true,
+      "latencyMs": 5069,
+      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
+    },
+    {
+      "id": "38179464",
+      "title": "Salon 2",
+      "idgo": "salon2",
+      "type": 6,
+      "url": "https://seep.eu.org/http://65.108.239.207/box3/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^sDhp^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1234,
+      "verified": true,
+      "latencyMs": 5205,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
+    },
+    {
+      "id": "38179278",
+      "title": "Sinema Yerli",
+      "idgo": "sinemayer",
+      "type": 6,
+      "url": "https://seep.eu.org/http://65.108.239.207/mvturk/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
+      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^rK=RiJ^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
+      "headers": {
+        "Referer": "https://google.com/",
+        "Origin": "https://google.com",
+        "User-Agent": "googleusercontent"
+      },
+      "order": 1048,
+      "verified": true,
+      "latencyMs": 5572,
+      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38178267",
@@ -90,7 +1808,7 @@
       "url": "http://2f3b97f3.cbilant.com/iptv/5NAW8CX5W89W2C/6882/index.m3u8",
       "rawUrl": "@y@@yy11@Llps!2lpt#s8P+q=t#Dr^8,=K^60n4UgH64U!4Lg^CUUL^8q.ThtrpRU",
       "headers": {
-        "User-Agent": "SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
+        "User-Agent": "SelcukSports/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
       },
       "order": 40,
       "verified": false,
@@ -139,23 +1857,6 @@
       "latencyMs": 7905
     },
     {
-      "id": "38178275",
-      "title": "bbce hd",
-      "idgo": "bbce",
-      "type": 6,
-      "url": "http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6854/index.m3u8",
-      "rawUrl": "@y@@yy11@DPh8FlJDtRJr8qP=tlRq^8,=K^3A20v!I&~g3vfw^CU6o^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 45,
-      "verified": true,
-      "latencyMs": 1476,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38178276",
       "title": "BEİN İZ",
       "idgo": "beiniz",
@@ -186,32 +1887,6 @@
       "latencyMs": 106
     },
     {
-      "id": "38178278",
-      "title": "D Max",
-      "idgo": "dmax",
-      "type": 6,
-      "url": "https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web",
-      "rawUrl": "@y@@yy1111@.D<R{t.+8Dq#.qtqT=^.r+h^.r+htrpRUO+,,u.r+hkMTs",
-      "headers": {},
-      "order": 48,
-      "verified": true,
-      "latencyMs": 1527,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178279",
-      "title": "Trt Belgesel",
-      "idgo": "trtb",
-      "type": 6,
-      "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-      "rawUrl": "@y@@yy1111@=K?=i=sTP<T{TPtrT.y+t=i=t#Drt=i^r+{=TitrpRU",
-      "headers": {},
-      "order": 49,
-      "verified": true,
-      "latencyMs": 1043,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38178280",
       "title": "TGRT B",
       "idgo": "tgrtb",
@@ -222,36 +1897,6 @@
       "order": 50,
       "verified": false,
       "latencyMs": 12016
-    },
-    {
-      "id": "38178281",
-      "title": "DOCUBOX",
-      "idgo": "docu",
-      "type": 6,
-      "url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay",
-      "rawUrl": "@y@@yy1111@+r<FFF!F?sPRT+q=rT.8+?q+=RiT=8rT?{+r{Rq<li?y+Jslt+r+<8t=K^,P+yP8{=^+r<FFF!F?sPRT+q=rT.8+?q+=RiT=8rT?{+r{Rq<li^,P+yP8{=trpRUO#[T#JT.sy%>y4+y",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 51,
-      "verified": true,
-      "latencyMs": 1332,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178282",
-      "title": "TLC TV",
-      "idgo": "tlc",
-      "type": 6,
-      "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web",
-      "rawUrl": "@y@@yy1111@.D<R{t.+8Dq#.qtqT=^=P#^=P#trpRUO+,,u=P#kMTs",
-      "headers": {},
-      "order": 52,
-      "verified": true,
-      "latencyMs": 1099,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38178284",
@@ -268,19 +1913,6 @@
       "order": 54,
       "verified": false,
       "latencyMs": 190
-    },
-    {
-      "id": "38178285",
-      "title": "TJK TV",
-      "idgo": "tjk",
-      "type": 6,
-      "url": "https://tjktv-live.tjk.org/tjktv_720p.m3u8",
-      "rawUrl": "@y@@yy1111@=}J=K?P8KTt=}JtDi<^=}J=Kk2LF,trpRU",
-      "headers": {},
-      "order": 55,
-      "verified": true,
-      "latencyMs": 912,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38178286",
@@ -1379,127 +3011,6 @@
       "latencyMs": 203
     },
     {
-      "id": "38178386",
-      "title": "1 TV 18",
-      "idgo": "tv1",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz:80/livecams.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE%UF^P8KT#+r{trpRU",
-      "headers": {
-        "User-Agent": "iptvcoronakorbuna"
-      },
-      "order": 156,
-      "verified": true,
-      "latencyMs": 831,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178387",
-      "title": "2 TV 18",
-      "idgo": "tv2",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/gay.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^<+ytrpRU",
-      "headers": {
-        "User-Agent": "by.iptvprocopy/9.8 (Linux;Android 10) ExoPlayerLib/2.8.4"
-      },
-      "order": 157,
-      "verified": true,
-      "latencyMs": 694,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178388",
-      "title": "3 TV 18",
-      "idgo": "tv3",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/interracial.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^8q=Tii+#8+PtrpRU",
-      "headers": {},
-      "order": 158,
-      "verified": true,
-      "latencyMs": 700,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178389",
-      "title": "4 TV 18",
-      "idgo": "tv4",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/lesbian.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^PT{s8+qtrpRU",
-      "headers": {},
-      "order": 159,
-      "verified": true,
-      "latencyMs": 4514,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178390",
-      "title": "TV 5 18",
-      "idgo": "tv5",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/bigtits.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<=8={trpRU",
-      "headers": {},
-      "order": 160,
-      "verified": true,
-      "latencyMs": 504,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178391",
-      "title": "6 tv 18",
-      "idgo": "tv6",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/interracial.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^8q=Tii+#8+PtrpRU",
-      "headers": {},
-      "order": 161,
-      "verified": true,
-      "latencyMs": 1126,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178392",
-      "title": "tv7 18",
-      "idgo": "tv7",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/fetish.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^lT=8{[trpRU",
-      "headers": {},
-      "order": 162,
-      "verified": true,
-      "latencyMs": 564,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178393",
-      "title": "tv8 18",
-      "idgo": "tv8",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/pornstar.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^,Diq{=+itrpRU",
-      "headers": {},
-      "order": 163,
-      "verified": true,
-      "latencyMs": 5069,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178394",
-      "title": "tv9 18",
-      "idgo": "tv9",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/bigass.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<+{{trpRU",
-      "headers": {},
-      "order": 164,
-      "verified": true,
-      "latencyMs": 550,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38178414",
       "title": "ligtv1",
       "idgo": "ligtv1",
@@ -1507,7 +3018,7 @@
       "url": "https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8",
       "rawUrl": "@y@@yy1111@hts8i+Jr+r{Tq8thyE^J+yq+J{=iT+ri+.+i#D^Lo^{=iri.itrpRU",
       "headers": {
-        "User-Agent": "SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
+        "User-Agent": "SelcukSports/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
       },
       "order": 184,
       "verified": false,
@@ -1592,56 +3103,6 @@
       "latencyMs": 12015
     },
     {
-      "id": "38178433",
-      "title": "Bein Starts",
-      "idgo": "starts",
-      "type": 6,
-      "url": "https://seep.eu.org/http://65.108.239.207/bsstars/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^s{{=+i{^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com/",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 203,
-      "verified": true,
-      "latencyMs": 2695,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178434",
-      "title": "BEİN ACTİON 2",
-      "idgo": "action2",
-      "type": 6,
-      "url": "https://seep.eu.org/http://65.108.239.207/bspremier1/index.m3u8",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^s{,iTr8Ti1^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 204,
-      "verified": true,
-      "latencyMs": 2567,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178435",
-      "title": "FB TV",
-      "idgo": "fb",
-      "type": 6,
-      "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
-      "rawUrl": "@y@@yy1111@1[{Ji.=DtiD#JT=#.qt#Dr^lTqTis+[#T=Kt{r8P^,P+yP8{=trpRU",
-      "headers": {
-        "x-requested-with": "com.live.glg",
-        "User-Agent": "GolgeTV++"
-      },
-      "order": 205,
-      "verified": true,
-      "latencyMs": 541,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38178436",
       "title": "LOCA 1",
       "idgo": "loca11",
@@ -1719,75 +3180,11 @@
       "url": "https://x.birakmamseni.xyz/kaynakstreamradarco/15/strmrdr.m3u8",
       "rawUrl": "@y@@yy1111@hts8i+Jr+r{Tq8thyE^J+yq+J{=iT+ri+.+i#D^16^{=iri.itrpRU",
       "headers": {
-        "User-Agent": "SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
+        "User-Agent": "SelcukSports/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
       },
       "order": 211,
       "verified": false,
       "latencyMs": 12015
-    },
-    {
-      "id": "38178490",
-      "title": "STAR TV",
-      "idgo": "startv",
-      "type": 6,
-      "url": "https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web",
-      "rawUrl": "@y@@yy1111@.D<R{t.+8Dq#.qtqT=^{=+i=K^{=+i=KtrpRUO+,,u{=+i=KkMTs",
-      "headers": {},
-      "order": 260,
-      "verified": true,
-      "latencyMs": 1129,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178491",
-      "title": "Atv",
-      "idgo": "atv",
-      "type": 6,
-      "url": "https://blcco.linkip.org/live/562_.m3u8",
-      "rawUrl": "@y@@yy1111@sP##DtP8qJ8,tDi<^P8KT^6CLktrpRU",
-      "headers": {
-        "Referer": "https://taraftarium1083.xyz/",
-        "Origin": "https://taraftarium1083.xyz",
-        "Accept": "*/*",
-        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
-      },
-      "order": 261,
-      "verified": true,
-      "latencyMs": 859,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178492",
-      "title": "kanald",
-      "idgo": "kanald",
-      "type": 6,
-      "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web",
-      "rawUrl": "@y@@yy1111@.Tr8iDiTqt.+8Dq#.qtqT=^J+q+P.^J+q+P.trpRUO+,,uJ+q+P.kMTs",
-      "headers": {
-        "Cookie": "Cookie:: ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m; emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc; eSessionId=0",
-        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
-      },
-      "order": 262,
-      "verified": true,
-      "latencyMs": 1021,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178493",
-      "title": "Show Tv",
-      "idgo": "showtv",
-      "type": 6,
-      "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web",
-      "rawUrl": "@y@@yy1111@#8qTit.+8Dq#.qtqT=^{[DM=K^{[DM=KtrpRUO+,,u{[DM=KkMTs",
-      "headers": {
-        "Referer": "https://www.google.com/",
-        "User-Agent": "radar.v2/9.8 (Linux;Android 11) AndroidXMedia3/1.1.1"
-      },
-      "order": 263,
-      "verified": true,
-      "latencyMs": 1358,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38178494",
@@ -1806,25 +3203,6 @@
       "latencyMs": 294
     },
     {
-      "id": "38178495",
-      "title": "NOW",
-      "idgo": "foxtv",
-      "type": 6,
-      "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8",
-      "rawUrl": "@y@@yy1111@Ry#yyRREy[t=RiJqT=tTi#.qtqT=^q,[8q.<y=M^qDM=K^qDM=Kk2LF,trpRU",
-      "headers": {
-        "Referer": "https://turkcanli.tv",
-        "Origin": "https://turkcanli.tv",
-        "X-LHD-Agent": "{\\",
-        "sec-ch-ua": "\\",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      },
-      "order": 265,
-      "verified": true,
-      "latencyMs": 4021,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38178496",
       "title": "blu aksiyon",
       "idgo": "bluaksiyon",
@@ -1835,103 +3213,6 @@
       "order": 266,
       "verified": false,
       "latencyMs": 167
-    },
-    {
-      "id": "38178497",
-      "title": "tv8",
-      "idgo": "tv88",
-      "type": 6,
-      "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7tv4oszs1118&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
-      "rawUrl": "@y@@yy1111@=KUt.+8Dq#.qtqT=^=KU^=KUk1FUF,trpRUO;{8.u2=KoD{E{111U;+,,u2..#L66+?Tlo2?oTU1?+s1o?#FT6lL!o!2UU;#Tup",
-      "headers": {
-        "User-Agent": "desk_win32"
-      },
-      "order": 267,
-      "verified": true,
-      "latencyMs": 885,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178498",
-      "title": "a2",
-      "idgo": "a2",
-      "type": 6,
-      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
-      "rawUrl": "@y@@yy1111@iq==Mr}#8qt=RiJqT=tTi#.qtqT=^P#,rKTlsyD^+L=K^+L=Kk1FUF,trpRU",
-      "headers": {
-        "User-Agent": "kopernik"
-      },
-      "order": 268,
-      "verified": true,
-      "latencyMs": 443,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178499",
-      "title": "TV 8-5",
-      "idgo": "tv85",
-      "type": 6,
-      "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7wczn5n71y02&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3",
-      "rawUrl": "@y@@yy1111@=KUt.+8Dq#.qtqT=^=KUsR#RJ^=KUsR#RJk1FUF,trpRUO;{8.u2M#Eq6q21yFL;+,,usl6U+s6L?oUC6?o#U1?sLLp?LCso1FF!UF1T;#Tup",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0"
-      },
-      "order": 269,
-      "verified": true,
-      "latencyMs": 689,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178500",
-      "title": "teve2",
-      "idgo": "teve2",
-      "type": 6,
-      "url": "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
-      "rawUrl": "@y@@yy1111@P8KTt.R[qT=t=K^&L^3X&kXVAZ^=TKTLq,^,P+yP8{=trpRU",
-      "headers": {},
-      "order": 270,
-      "verified": true,
-      "latencyMs": 1366,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178501",
-      "title": "kanal7",
-      "idgo": "kanal7",
-      "type": 6,
-      "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-      "rawUrl": "@y@@yy1111@J+q+P2?P8KTt.+8Dq#.qtqT=^J+q+P2^J+q+P2trpRU",
-      "headers": {},
-      "order": 271,
-      "verified": true,
-      "latencyMs": 1304,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178502",
-      "title": "Beyaz tv",
-      "idgo": "beyaztv",
-      "type": 6,
-      "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
-      "rawUrl": "@y@@yy1111@sTy+E=K?P8KTt.+8Dq#.qtqT=^sTy+E=K^sTy+E=KtrpRU",
-      "headers": {},
-      "order": 272,
-      "verified": true,
-      "latencyMs": 1533,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178503",
-      "title": "ntv",
-      "idgo": "ntv",
-      "type": 6,
-      "url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sid=4nltxgifuue6&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3",
-      "rawUrl": "@y@@yy1111@.D<R{t.+8Dq#.qtqT=^q=K^q=Kk2LF,trpRUO{8.uoqP=h<8lRRTC;+,,u#CUs..sT?p.sl?o!l2?U!L+?!p.T6+Tp2l1l;#Tup",
-      "headers": {},
-      "order": 273,
-      "verified": true,
-      "latencyMs": 760,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38178504",
@@ -1949,60 +3230,6 @@
       "verified": false,
       "latencyMs": 12016,
       "lastVerifiedAt": "2026-10-26T01:58:21.901Z"
-    },
-    {
-      "id": "38178505",
-      "title": "HABER TÜRK",
-      "idgo": "haberturk",
-      "type": 6,
-      "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
-      "rawUrl": "@y@@yy1111@ir=l=s}PqTt=RiJqT=tTi#.qtqT=^s,Ty=rq:y,^[+sTi=RiJ=K^[+sTi=RiJ=KtrpRU",
-      "headers": {},
-      "order": 275,
-      "verified": true,
-      "latencyMs": 1171,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178506",
-      "title": "haber global",
-      "idgo": "global",
-      "type": 6,
-      "url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
-      "rawUrl": "@y@@yy1111@=KtTq{Dq[+sTit#Dr^[+sTi<PDs+P^[+sTi<PDs+Pk2LF,trpRU",
-      "headers": {
-        "User-Agent": "calma"
-      },
-      "order": 276,
-      "verified": true,
-      "latencyMs": 2293,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178507",
-      "title": "24 tv",
-      "idgo": "24tv",
-      "type": 6,
-      "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
-      "rawUrl": "@y@@yy1111@=RiJrT.y+?P8KTtTi#.qtqT=^=KLo^=KLotrpRU",
-      "headers": {},
-      "order": 277,
-      "verified": true,
-      "latencyMs": 1448,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38178508",
-      "title": "360 tv",
-      "idgo": "360",
-      "type": 6,
-      "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
-      "rawUrl": "@y@@yy1111@=RiJrT.y+?P8KTtTi#.qtqT=^=KpCF^=KpCFk2LF,trpRU",
-      "headers": {},
-      "order": 278,
-      "verified": true,
-      "latencyMs": 903,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38178509",
@@ -2124,7 +3351,7 @@
       "url": "https://x.birakmamseni.xyz/kaynakstreamradarco/18/strmrdr.m3u8",
       "rawUrl": "@y@@yy1111@hts8i+Jr+r{Tq8thyE^J+yq+J{=iT+ri+.+i#D^1U^{=iri.itrpRU",
       "headers": {
-        "User-Agent": "SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
+        "User-Agent": "SelcukSports/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
       },
       "order": 290,
       "verified": false,
@@ -2390,28 +3617,11 @@
       "url": "https://video.xx.fbcdn.net/hvideo-frc-prn/_nc_ohc-VsqwkcG1iz4AX_fWQFL/_nc_cat-103/v/rmcHSE0f46BLqDK3zvXhb/live-dash/dash-abr-ibr-audio/139861684538219_0.mpd?_nc_rl=AfBAqxrWqJzY2DyC&lvp=1&oh=42a4716c9f14b6ee9f42827757880ffe&oe=5FA9E6B1&_nc_nc=1x",
       "rawUrl": "@y@@yy1111@K8.TDthhtls#.qtqT=^[K8.TD?li#?,iq^kq#kD[#?A{:MJ#/18EonHkl4~SX^kq#k#+=?1Fp^K^ir#3&ZFloCmX:NwpEKH[s^P8KT?.+{[^.+{[?+si?8si?+R.8D^1p!UC1CUo6pUL1!kFtr,.Okq#kiPunlmn:hi4:7EvLNyg;PK,u1;D[uoL+o21C#!l1osCTT!loLUL2262UUFllT;DTu6Sn!ZCm1;kq#kq#u1h",
       "headers": {
-        "User-Agent": "SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
+        "User-Agent": "SelcukSports/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
       },
       "order": 518,
       "verified": false,
       "latencyMs": 270
-    },
-    {
-      "id": "38178750",
-      "title": "TRT SPOR",
-      "idgo": "trtspor",
-      "type": 6,
-      "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-      "rawUrl": "@y@@yy1111@=K?=i={,Di1trT.y+t=i=t#Drt=i^r+{=TitrpRU",
-      "headers": {
-        "Referer": "https://www.trtspor.com.tr/",
-        "Origin": "https://www.trtspor.com.tr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48"
-      },
-      "order": 520,
-      "verified": true,
-      "latencyMs": 1147,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38178754",
@@ -2928,23 +4138,6 @@
       "latencyMs": 8108
     },
     {
-      "id": "38178844",
-      "title": "A Spor",
-      "idgo": "aspor",
-      "type": 6,
-      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
-      "rawUrl": "@y@@yy1111@iq==Mr}#8qt=RiJqT=tTi#.qtqT=^P#,rKTlsyD^+{,Di^+{,DitrpRU",
-      "headers": {
-        "Referer": "https://trgoals1250.xyz/",
-        "Origin": "https://trgoals1250.xyz",
-        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
-      },
-      "order": 614,
-      "verified": true,
-      "latencyMs": 1383,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38178854",
       "title": "Power Türk",
       "idgo": "pturk",
@@ -3230,7 +4423,7 @@
       "url": "http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b21ae52fbde03ba.m3u8",
       "rawUrl": "@y@@yy11@o#T6TL.CLTTL#1FTop#2F!l!sU2#oo.6t{=iT+r[D{=t##^rpRU^5RiJ8{[^sL1+T6Lls.TFps+trpRU",
       "headers": {
-        "User-Agent": "SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
+        "User-Agent": "SelcukSports/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1"
       },
       "order": 728,
       "verified": false,
@@ -3278,19 +4471,6 @@
       "order": 731,
       "verified": false,
       "latencyMs": 7901
-    },
-    {
-      "id": "38178962",
-      "title": "Çiftçi tv",
-      "idgo": "ciftcitv",
-      "type": 6,
-      "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8",
-      "rawUrl": "@y@@yy1111@P8KTt+i=8.8}8=+PrT.y+t#Dr^+i=8.8}8=+Pk#8l=#8=K^#8l=#8=K^#[RqJ{trpRU",
-      "headers": {},
-      "order": 732,
-      "verified": true,
-      "latencyMs": 666,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38178969",
@@ -3341,23 +4521,6 @@
       "order": 779,
       "verified": false,
       "latencyMs": 12019
-    },
-    {
-      "id": "38179011",
-      "title": "Sözcü Tv",
-      "idgo": "tgrth",
-      "type": 6,
-      "url": "https://helga.iptv2022.com/szc_tv/index.m3u8",
-      "rawUrl": "@y@@yy1111@[TP<+t8,=KLFLLt#Dr^{E#k=K^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://turkcanli.tv/",
-        "Origin": "https://turkcanli.tv",
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"
-      },
-      "order": 781,
-      "verified": true,
-      "latencyMs": 1316,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38179012",
@@ -3766,23 +4929,6 @@
       "latencyMs": 8113
     },
     {
-      "id": "38179054",
-      "title": "Trt spor 2",
-      "idgo": "trts2",
-      "type": 6,
-      "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=74edifq4t9bg&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2",
-      "rawUrl": "@y@@yy1111@=i=t.+8Dq#.qtqT=^=i={,Di?y8P.8E^r+{=Tik1FUF,trpRUO;{8.u2oT.8l:o=!s<;+,,u!lUo!sU#?2l#F?oC+L?+!T#?llUTLsp6!CF.;#TuL",
-      "headers": {
-        "Referer": "https://www.tabii.com/",
-        "Origin": "https://www.tabii.com",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
-      },
-      "order": 824,
-      "verified": true,
-      "latencyMs": 765,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38179058",
       "title": "SMART SPOR 1",
       "idgo": "smarts",
@@ -4119,32 +5265,6 @@
       "latencyMs": 773
     },
     {
-      "id": "38179137",
-      "title": "Halk tv",
-      "idgo": "halktv",
-      "type": 6,
-      "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-      "rawUrl": "@y@@yy1111@[+PJ=K?P8KTt.+8Dq#.qtqT=^[+PJ=K^[+PJ=KtrpRU",
-      "headers": {},
-      "order": 907,
-      "verified": true,
-      "latencyMs": 1233,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
-      "id": "38179138",
-      "title": "Tele 1",
-      "idgo": "tele1",
-      "type": 6,
-      "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-      "rawUrl": "@y@@yy1111@=TPT1?P8KTtTi#.qtqT=^=TPT1^=TPT1trpRU",
-      "headers": {},
-      "order": 908,
-      "verified": true,
-      "latencyMs": 2253,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38179139",
       "title": "Krt tv",
       "idgo": "krttv",
@@ -4178,23 +5298,6 @@
       "latencyMs": 487
     },
     {
-      "id": "38179141",
-      "title": "Ülke tv",
-      "idgo": "ulketv",
-      "type": 6,
-      "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
-      "rawUrl": "@y@@yy1111@P8KT=Kti+.yD=KDqP8qTtqT=^J+q+P2P8KT^RPJT=K^,P+yP8{=trpRU",
-      "headers": {
-        "Referer": "https://www.tvheryerde.com.tr/",
-        "Origin": "https://www.tvheryerde.com.tr",
-        "User-Agent": "Mozilla/5.0"
-      },
-      "order": 911,
-      "verified": true,
-      "latencyMs": 1200,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
-    },
-    {
       "id": "38179142",
       "title": "Fishontv",
       "idgo": "fishontv",
@@ -4205,19 +5308,6 @@
       "order": 912,
       "verified": false,
       "latencyMs": 8097
-    },
-    {
-      "id": "38179143",
-      "title": "TRT müzik",
-      "idgo": "trtmuzik",
-      "type": 6,
-      "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?anahtar=uDF6pIH_fTdrY4Fqsjgh2Q&sure=1632534330&ip=95.12.237.92",
-      "rawUrl": "@y@@yy1111@=K?=i=rRE8JtrT.y+t=i=t#Drt=i^r+{=Tik2LFtrpRUO+q+[=+iuRNSC,V3kl5.ivoS:{}<[L~;{RiTu1CpL6poppF;8,u!6t1LtLp2t!L",
-      "headers": {},
-      "order": 913,
-      "verified": true,
-      "latencyMs": 587,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38179144",
@@ -4288,25 +5378,6 @@
       "order": 926,
       "verified": false,
       "latencyMs": 351
-    },
-    {
-      "id": "38179162",
-      "title": "TV 100",
-      "idgo": "tv100",
-      "type": 6,
-      "url": "https://tv.ensonhaber.com/tv100/tv100_1080p.m3u8",
-      "rawUrl": "@y@@yy1111@=KtTq{Dq[+sTit#Dr^=K1FF^=K1FFk1FUF,trpRU",
-      "headers": {
-        "Referer": "https://taraftarium1078.xyz/",
-        "Origin": "https://taraftarium1078.xyz",
-        "Accept": "*/*",
-        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
-      },
-      "order": 932,
-      "verified": true,
-      "latencyMs": 769,
-      "lastVerifiedAt": "2026-10-26T02:36:35.969Z"
     },
     {
       "id": "38179163",
@@ -4560,22 +5631,6 @@
       "latencyMs": 12015
     },
     {
-      "id": "38179208",
-      "title": "Chasse",
-      "idgo": "chasse",
-      "type": 6,
-      "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8",
-      "rawUrl": "@y@@yy1111@,P+yP8{=tl+{==K#.qt#Dr^,P^iliJ!UL1[.y!.+yDUMly[+^#[8PP?=K^,P+yP8{=^FtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; A5010 Build/PI)"
-      },
-      "order": 978,
-      "verified": true,
-      "latencyMs": 2133,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179209",
       "title": "Scivie",
       "idgo": "scivie",
@@ -4642,23 +5697,6 @@
       "order": 983,
       "verified": false,
       "latencyMs": 2441
-    },
-    {
-      "id": "38179217",
-      "title": "History",
-      "idgo": "his",
-      "type": 6,
-      "url": "https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8",
-      "rawUrl": "@y@@yy1111@8,ooti+.yD=TPTJDr=Kt#Dr%p6oU^[ysi8.^,P+ytrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 987,
-      "verified": true,
-      "latencyMs": 914,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179222",
@@ -4775,23 +5813,6 @@
       "latencyMs": 41
     },
     {
-      "id": "38179264",
-      "title": "A Spor Yedek",
-      "idgo": "aspor2",
-      "type": 6,
-      "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8?token=YYpuTUJzg4XwJaen2kc46w&tms=1770989701",
-      "rawUrl": "@y@@yy11@iq==Mr}#8qt=RiJqT=tTi#.qtqT=^P#,rKTlsyD^+{,Di^+{,DitrpRUO=DJTquvv,R5W7E<oHM7+TqLJ#oCM;=r{u122F!U!2F1",
-      "headers": {
-        "Referer": "https://localhost/",
-        "Origin": "https://localhost/",
-        "User-Agent": "calma"
-      },
-      "order": 1034,
-      "verified": true,
-      "latencyMs": 2732,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179265",
       "title": "Bein 4 Sd",
       "idgo": "bein4s",
@@ -4852,125 +5873,6 @@
       "order": 1046,
       "verified": false,
       "latencyMs": 341
-    },
-    {
-      "id": "38179277",
-      "title": "Sinema 1001",
-      "idgo": "sinema1001",
-      "type": 6,
-      "url": "https://seep.eu.org/https://65.108.239.207/sinema1001/index.m3u8",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy1111@C6t1FUtLp!tLF2^{8qTr+1FF1^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1047,
-      "verified": true,
-      "latencyMs": 2078,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179278",
-      "title": "Sinema Yerli",
-      "idgo": "sinemayer",
-      "type": 6,
-      "url": "https://seep.eu.org/http://65.108.239.207/mvturk/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^rK=RiJ^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1048,
-      "verified": true,
-      "latencyMs": 5572,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179279",
-      "title": "Sinema Komedi",
-      "idgo": "sinemakome",
-      "type": 6,
-      "url": "https://seep.eu.org/https://65.108.239.207/sinemakomedi/index.m3u8",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy1111@C6t1FUtLp!tLF2^{8qTr+JDrT.8^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1049,
-      "verified": true,
-      "latencyMs": 1741,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179280",
-      "title": "Redbul tv",
-      "idgo": "redbultv",
-      "type": 6,
-      "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8",
-      "rawUrl": "@y@@yy11@isrq?P8KTt+J+r+8ET.tqT=^[P{^P8KT^6!F!Co^mDIm?n5^r+{=Tik1CCFtrpRU",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36"
-      },
-      "order": 1050,
-      "verified": true,
-      "latencyMs": 659,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179281",
-      "title": "Sinema Aksiyon",
-      "idgo": "sinemaaksi",
-      "type": 6,
-      "url": "https://seep.eu.org/https://65.108.239.207/sinemaaksiyon2/index.m3u8",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy1111@C6t1FUtLp!tLF2^{8qTr++J{8yDqL^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1051,
-      "verified": true,
-      "latencyMs": 2458,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179286",
-      "title": "Bein 2 A Radar",
-      "idgo": "bein2sd",
-      "type": 6,
-      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-2.m3u8",
-      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{p^sT8q?{,Di={?LtrpRU",
-      "headers": {
-        "Referer": "https://www.atomsportv513.top/",
-        "Origin": "https://www.atomsportv513.top",
-        "Accept": "*/*",
-        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/537.36"
-      },
-      "order": 1056,
-      "verified": true,
-      "latencyMs": 2693,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179287",
-      "title": "Bein 3 Trgoals",
-      "idgo": "bein3s",
-      "type": 6,
-      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs3.m3u8",
-      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{L^{=iT+rk+q.iD{=iT+rP8KTs{ptrpRU",
-      "headers": {
-        "Referer": "https://atomsportv501.top/",
-        "Origin": "https://atomsportv501.top",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
-      },
-      "order": 1057,
-      "verified": true,
-      "latencyMs": 1455,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179288",
@@ -5047,23 +5949,6 @@
       "latencyMs": 12015
     },
     {
-      "id": "38179295",
-      "title": "Fx",
-      "idgo": "fx",
-      "type": 6,
-      "url": "https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432",
-      "rawUrl": "@y@@yy1111@{+i+q?P8KTtTi#.qtqT=^lh^8q.ThtrpRUO{=uRDk=8NKVETIi5VyfoFLm!<;Tu12pUL2UopL",
-      "headers": {
-        "Accept": "*/*",
-        "Range": "bytes=0-",
-        "User-Agent": "Mozilla/5.0"
-      },
-      "order": 1065,
-      "verified": true,
-      "latencyMs": 3704,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179296",
       "title": "Fox Crime",
       "idgo": "crime",
@@ -5117,23 +6002,6 @@
       "order": 1085,
       "verified": false,
       "latencyMs": 707
-    },
-    {
-      "id": "38179316",
-      "title": "Tv 8 Kablo",
-      "idgo": "tv8kablo",
-      "type": 6,
-      "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7tv08bnv0w08&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
-      "rawUrl": "@y@@yy1111@=KUt.+8Dq#.qtqT=^=KU^=KUk1FUF,trpRUO;{8.u2=KFUsqKFMFU;+,,u2..#L66+?Tlo2?oTU1?+s1o?#FT6lL!o!2UU;#Tup",
-      "headers": {
-        "Referer": "https://b.kuzeytv.com/",
-        "Origin": "https://b.kuzeytv.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-      },
-      "order": 1086,
-      "verified": true,
-      "latencyMs": 1166,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179317",
@@ -5238,25 +6106,6 @@
       "latencyMs": 8110
     },
     {
-      "id": "38179350",
-      "title": "Bein 2 Tr Goals",
-      "idgo": "bein2hd",
-      "type": 6,
-      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs2.m3u8",
-      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{L^{=iT+rk+q.iD{=iT+rP8KTs{LtrpRU",
-      "headers": {
-        "Referer": "https://30slotintv.live/",
-        "Origin": "https://30slotintv.live",
-        "Accept": "*/*",
-        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
-      },
-      "order": 1120,
-      "verified": true,
-      "latencyMs": 1541,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179351",
       "title": "Bein 3 C",
       "idgo": "bein3radar",
@@ -5330,23 +6179,6 @@
       "order": 1144,
       "verified": false,
       "latencyMs": 8108
-    },
-    {
-      "id": "38179375",
-      "title": "Sinema Tv 1",
-      "idgo": "sinema1y",
-      "type": 6,
-      "url": "https://seep.eu.org/http://65.108.239.207/bsseries2/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^s{{Ti8T{L^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1145,
-      "verified": true,
-      "latencyMs": 2747,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179376",
@@ -5432,40 +6264,6 @@
       "order": 1151,
       "verified": false,
       "latencyMs": 452
-    },
-    {
-      "id": "38179382",
-      "title": "Bein Movies Pre 1",
-      "idgo": "beinmpre",
-      "type": 6,
-      "url": "https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8",
-      "rawUrl": "@y@@yy1111@[D{=tDqP8qTi+.yD=KtqT=%UFU1^{.r=K^=i+#J{?K1+1^rDqDtrpRU",
-      "headers": {
-        "Referer": "https://example.com/",
-        "Origin": "https://example.com",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
-      },
-      "order": 1152,
-      "verified": true,
-      "latencyMs": 773,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179383",
-      "title": "Bein Movies Pre 2",
-      "idgo": "beinmpre2",
-      "type": 6,
-      "url": "https://seep.eu.org/http://65.108.239.207/bsseries1/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^s{{Ti8T{1^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1153,
-      "verified": true,
-      "latencyMs": 2443,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179384",
@@ -5596,23 +6394,6 @@
       "latencyMs": 12015
     },
     {
-      "id": "38179392",
-      "title": "Viasat Explore",
-      "idgo": "vekablo",
-      "type": 6,
-      "url": "https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8",
-      "rawUrl": "@y@@yy1111@.+!#o!l+tMRiPt#Dr^r+{=Ti^lpC.L6T2T6Ll1s+U.2T6CTsU6!#CpC6CpL1ol6o1^WrSi.HIPsPI4XHm{H1f,vH0[.ZAo#/hK#rAl&Zh5^,P+yP8{=trpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1162,
-      "verified": true,
-      "latencyMs": 1490,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179393",
       "title": "Viasat History Kablo",
       "idgo": "vhkablo",
@@ -5715,23 +6496,6 @@
       "latencyMs": 508
     },
     {
-      "id": "38179400",
-      "title": "Star Tv Kablo",
-      "idgo": "starkabo",
-      "type": 6,
-      "url": "https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8p6rwl429kfa&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=2%20#EXTINF:-1%20tvg-name=%22TV%208%22%20tvg-id=%22%22%20tvg-logo=%22https://imgs.search.brave.com/OjYN02PMadfM-5wK12rHI66fq_jdflScTuMdKdwaj5k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9maWxl/cy5zaWtheWV0dmFy/LmNvbS9sZy9jbXAv/MTEvMTE3Mi5wbmc_/MTUyMjY1MDEyNQ",
-      "rawUrl": "@y@@yy1111@=+=+=+rt=i=1{RP=+ql+=8[{{tMDiJTi{t.TK^@yy1111@.D<R{t.+8Dq#.qtqT=^{=+i=K^{=+i=Kk2LF,trpRUO;{8.uU,CiMPoL!Jl+;+,,u+LF+#o1T?s.#p?o++1?!po.?LCsoUooUF+#!;#TuLYLFxZH5V0S%?1YLF=K<?q+rTuYLL5AYLFUYLLYLF=K<?8.uYLLYLLYLF=K<?PD<DuYLL@yy1111@8r<{t{T+i#[tsi+KTt#Dr^j}v0FL->+.l>?6Mw1Li3VCCl:k}.lP&#5R>.w.M+}6J^i{%l8=%6FF%F%1%F^<%#T^+3IF#3>CXy!r+4hP^#y6E+4=[T4AF.rSy^Xr0Ks&!{fy!}sHnK^>5ZK>5Zp>86Msr#k^>5Wy>}v1>NZy0~",
-      "headers": {
-        "Referer": "https://tv.ecanlitvizle.org/",
-        "Origin": "https://tv.ecanlitvizle.org",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 11; M2003J15SC Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36"
-      },
-      "order": 1170,
-      "verified": true,
-      "latencyMs": 1436,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179401",
       "title": "English Club",
       "idgo": "englisclub",
@@ -5761,23 +6525,6 @@
       "order": 1172,
       "verified": false,
       "latencyMs": 12016
-    },
-    {
-      "id": "38179404",
-      "title": "Bein 2 C",
-      "idgo": "bein2c",
-      "type": 6,
-      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-2.m3u8",
-      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{p^sT8q?{,Di={?LtrpRU",
-      "headers": {
-        "Referer": "https://www.atomsportv513.top/",
-        "Origin": "https://www.atomsportv513.top",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
-      },
-      "order": 1174,
-      "verified": true,
-      "latencyMs": 3320,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179406",
@@ -5810,40 +6557,6 @@
       "order": 1180,
       "verified": false,
       "latencyMs": 12015
-    },
-    {
-      "id": "38179417",
-      "title": "Film Scren",
-      "idgo": "moviesturk",
-      "type": 6,
-      "url": "https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8",
-      "rawUrl": "@y@@yy1111@T.<T?TptTKi8.TDt=K^lL.#sT#l?6+lF?o2.s?+ULT?FpL11LF6F+Lpk1FFFFL2poCk3X&^r+q8lT{=trpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1187,
-      "verified": true,
-      "latencyMs": 1294,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179418",
-      "title": "Epic Drama",
-      "idgo": "epicdrama",
-      "type": 6,
-      "url": "http://c3921155.edmonst.net/iptv/LY9PHWZHRXA5SE/6882/index.m3u8",
-      "rawUrl": "@y@@yy11@#p!L1166tT.rDq{=tqT=^8,=K^Xv!-34f3IHn6&Z^CUUL^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1188,
-      "verified": true,
-      "latencyMs": 662,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179419",
@@ -5950,19 +6663,6 @@
       "latencyMs": 12018
     },
     {
-      "id": "38179427",
-      "title": "Tv 6",
-      "idgo": "tv66",
-      "type": 6,
-      "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8",
-      "rawUrl": "@y@@yy1111@P8KTt+i=8.8}8=+PrT.y+t#Dr^+i=8.8}8=+Pk=8K8C^=8K8C^#[RqJ{trpRU",
-      "headers": {},
-      "order": 1197,
-      "verified": true,
-      "latencyMs": 639,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179428",
       "title": "Düzgün Tv",
       "idgo": "duzguntv",
@@ -5975,25 +6675,6 @@
       "order": 1198,
       "verified": false,
       "latencyMs": 351
-    },
-    {
-      "id": "38179429",
-      "title": "Bein Spor 1 - B",
-      "idgo": "beins1b",
-      "type": 6,
-      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebiraz1.m3u8",
-      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{L^{=iT+rk+q.iD{=iT+rP8KTs8i+E1trpRU",
-      "headers": {
-        "Referer": "https://30slotintv.live/",
-        "Origin": "https://30slotintv.live",
-        "Accept": "*/*",
-        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre"
-      },
-      "order": 1199,
-      "verified": true,
-      "latencyMs": 1261,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179430",
@@ -6030,21 +6711,6 @@
       "latencyMs": 12014
     },
     {
-      "id": "38179432",
-      "title": "Bengü Türk",
-      "idgo": "bengut",
-      "type": 6,
-      "url": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8",
-      "rawUrl": "@y@@yy1111@=KtTq{Dq[+sTit#Dr^sTq<R=RiJ^sTq<R=RiJk2LF,trpRU",
-      "headers": {
-        "User-Agent": "desk_win32"
-      },
-      "order": 1202,
-      "verified": true,
-      "latencyMs": 681,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179433",
       "title": "A Para",
       "idgo": "apara",
@@ -6061,39 +6727,6 @@
       "latencyMs": 12014
     },
     {
-      "id": "38179434",
-      "title": "Bloomberg Tv",
-      "idgo": "bloom",
-      "type": 6,
-      "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
-      "rawUrl": "@y@@yy1111@#8qTit.+8Dq#.qtqT=^sPDDrsTi<[=^sPDDrsTi<[=trpRU",
-      "headers": {
-        "Referer": "https://www.tvheryerde.com.tr/",
-        "Origin": "https://www.tvheryerde.com.tr",
-        "User-Agent": "Mozilla/5.0"
-      },
-      "order": 1204,
-      "verified": true,
-      "latencyMs": 1153,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179435",
-      "title": "Flash Haber",
-      "idgo": "flashh",
-      "type": 6,
-      "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8",
-      "rawUrl": "@y@@yy1111@lP+{[[+sTi?P8KTtTi#.qtqT=^lP+{[[+sTi^lP+{[[+sTik1FUF,trpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "User-Agent": "calma"
-      },
-      "order": 1205,
-      "verified": true,
-      "latencyMs": 1371,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179436",
       "title": "Akit Tv",
       "idgo": "akittv",
@@ -6105,62 +6738,6 @@
       "verified": false,
       "latencyMs": 917,
       "lastVerifiedAt": "2026-10-26T01:58:21.902Z"
-    },
-    {
-      "id": "38179437",
-      "title": "Dha 1",
-      "idgo": "dha1",
-      "type": 6,
-      "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8",
-      "rawUrl": "@y@@yy1111@CFp#6CUl##.l6t{=iT+rPD#JtqT=^P8KT^.[+MTs1kg6Tlg^#[RqJP8{=kMCpFFLoF6UtrpRU",
-      "headers": {},
-      "order": 1207,
-      "verified": true,
-      "latencyMs": 496,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179438",
-      "title": "Dha 2",
-      "idgo": "dha2",
-      "type": 6,
-      "url": "https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8",
-      "rawUrl": "@y@@yy1111@CFp#6CUl##.l6t{=iT+rPD#JtqT=^P8KTL^.[+MTsL^#[RqJP8{=kM1Uop2ULo!ptrpRU",
-      "headers": {},
-      "order": 1208,
-      "verified": true,
-      "latencyMs": 386,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179439",
-      "title": "Tbmm Tv",
-      "idgo": "tbmmtv",
-      "type": 6,
-      "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
-      "rawUrl": "@y@@yy1111@rT#P8{=K?P8KTtTi#.qtqT=^rT#P8{=K^rT#P8{=KtrpRU",
-      "headers": {},
-      "order": 1209,
-      "verified": true,
-      "latencyMs": 1467,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179440",
-      "title": "Trt Çocuk",
-      "idgo": "trtcocuk",
-      "type": 6,
-      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8?anahtar=4H0lLq41FiEcT8C_T8c1AA&sure=1696233598&ip=31.223.13.91",
-      "rawUrl": "@y@@yy1111@=K?=i=#D#RJtrT.y+t=i=t#Drt=i^r+{=Tik2LFtrpRUO+q+[=+iuo3FPX:o1S8Z#5Ugk5U#1nn;{RiTu1C!CLpp6!U;8,up1tLLpt1pt!1",
-      "headers": {
-        "Referer": "https://b.kuzeytv.com/",
-        "Origin": "https://b.kuzeytv.com",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36"
-      },
-      "order": 1210,
-      "verified": true,
-      "latencyMs": 795,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179441",
@@ -6411,21 +6988,6 @@
       "latencyMs": 177
     },
     {
-      "id": "38179461",
-      "title": "Tv 8.5 Tr Goals",
-      "idgo": "tv85tr",
-      "type": 6,
-      "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7wczn5n71y02&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3",
-      "rawUrl": "@y@@yy1111@=KUt.+8Dq#.qtqT=^=KUsR#RJ^=KUsR#RJk1FUF,trpRUO;{8.u2M#Eq6q21yFL;+,,usl6U+s6L?oUC6?o#U1?sLLp?LCso1FF!UF1T;#Tup",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0"
-      },
-      "order": 1231,
-      "verified": true,
-      "latencyMs": 744,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179462",
       "title": "Bein Sport 1 Özel",
       "idgo": "beinozel",
@@ -6442,23 +7004,6 @@
       "order": 1232,
       "verified": false,
       "latencyMs": 510
-    },
-    {
-      "id": "38179464",
-      "title": "Salon 2",
-      "idgo": "salon2",
-      "type": 6,
-      "url": "https://seep.eu.org/http://65.108.239.207/box3/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^sDhp^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1234,
-      "verified": true,
-      "latencyMs": 5205,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179465",
@@ -6485,42 +7030,6 @@
       "latencyMs": 12018
     },
     {
-      "id": "38179467",
-      "title": "Visat Nature",
-      "idgo": "tarihtv",
-      "type": 6,
-      "url": "http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/19078/index.m3u8",
-      "rawUrl": "@y@@yy11@DPh8FlJDtRJr8qP=tlRq^8,=K^3A20v!I&~g3vfw^1!F2U^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://twitter.com/",
-        "Origin": "https://twitter.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1237,
-      "verified": true,
-      "latencyMs": 540,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179468",
-      "title": "Trt Spor Stream",
-      "idgo": "trtss",
-      "type": 6,
-      "url": "https://helga.iptv2022.com/sh/trt_spor/index.m3u8",
-      "rawUrl": "@y@@yy1111@[TP<+t8,=KLFLLt#Dr^{[^=i=k{,Di^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://turkcanli.tv",
-        "Cookie": "https://turkcanli.tv",
-        "X-LHD-Agent": "{\\\"platform\\\":\\\"web\\\",\\\"app\\\":\\\"turkcanli.tv\\\",\\\"device_id\\\":\\\"584430.438632503-1768665393984\\\"}",
-        "sec-ch-ua": "\\\"Android WebView\\\";v=\\\"143\\\", \\\"Chromium\\\";v=\\\"143\\\", \\\"Not A(Brand\\\";v=\\\"24\\\"",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      },
-      "order": 1238,
-      "verified": true,
-      "latencyMs": 1348,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179469",
       "title": "Bein Drama",
       "idgo": "beinbox1",
@@ -6543,23 +7052,6 @@
       "order": 1240,
       "verified": false,
       "latencyMs": 15
-    },
-    {
-      "id": "38179471",
-      "title": "Bein Box 2",
-      "idgo": "beinbox22",
-      "type": 6,
-      "url": "https://seep.eu.org/http://65.108.239.207/box2/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595",
-      "rawUrl": "@y@@yy1111@{TT,tTRtDi<^@yy11@C6t1FUtLp!tLF2^sDhL^8q.ThtrpRUO=DJTqu4sK/og,Z!&owVUKrHX={~M;=r{u12211CL6!6",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1241,
-      "verified": true,
-      "latencyMs": 3809,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179472",
@@ -6718,108 +7210,6 @@
       "order": 1262,
       "verified": false,
       "latencyMs": 1443
-    },
-    {
-      "id": "38179493",
-      "title": "Salon 3",
-      "idgo": "salon3",
-      "type": 6,
-      "url": "http://45.158.14.16/ZemTv/live/index.m3u8",
-      "rawUrl": "@y@@yy11@o6t16Ut1ot1C^fTr5K^P8KT^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1263,
-      "verified": true,
-      "latencyMs": 732,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179494",
-      "title": "Salon 5",
-      "idgo": "salon5",
-      "type": 6,
-      "url": "https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8",
-      "rawUrl": "@y@@yy1111@[D{=tDqP8qTi+.yD=KtqT=%UFU1^{.r=K^=i+#J{?K1+1^rDqDtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1264,
-      "verified": true,
-      "latencyMs": 919,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179495",
-      "title": "Salon 4",
-      "idgo": "salon4",
-      "type": 6,
-      "url": "https://yayin.venomlink.com/live/mystream/index.m3u8",
-      "rawUrl": "@y@@yy1111@y+y8qtKTqDrP8qJt#Dr^P8KT^ry{=iT+r^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1265,
-      "verified": true,
-      "latencyMs": 2150,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179499",
-      "title": "Salon 6",
-      "idgo": "salon6",
-      "type": 6,
-      "url": "https://blcco.linkip.org/live/550_.m3u8",
-      "rawUrl": "@y@@yy1111@sP##DtP8qJ8,tDi<^P8KT^66FktrpRU",
-      "headers": {
-        "Referer": "https://google.com/",
-        "Origin": "https://google.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1269,
-      "verified": true,
-      "latencyMs": 1118,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179500",
-      "title": "Salon 7",
-      "idgo": "salon7",
-      "type": 6,
-      "url": "https://blcco.linkip.org/live/554_.m3u8",
-      "rawUrl": "@y@@yy1111@sP##DtP8qJ8,tDi<^P8KT^66oktrpRU",
-      "headers": {
-        "Referer": "https://twiter.com/",
-        "Origin": "https://twiter.com",
-        "User-Agent": "googleusercontent"
-      },
-      "order": 1270,
-      "verified": true,
-      "latencyMs": 996,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179501",
-      "title": "Salon 8",
-      "idgo": "salon8",
-      "type": 6,
-      "url": "http://c3921155.edmonst.net/iptv/7T8KD5UY3TXLY8/6812/index.m3u8",
-      "rawUrl": "@y@@yy11@#p!L1166tT.rDq{=tqT=^8,=K^25UwN6Wvp5HXvU^CU1L^8q.ThtrpRU",
-      "headers": {
-        "Accept": "*/*",
-        "Range": "bytes=0-",
-        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
-      },
-      "order": 1271,
-      "verified": true,
-      "latencyMs": 836,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179502",
@@ -7050,19 +7440,6 @@
       "order": 1292,
       "verified": false,
       "latencyMs": 12017
-    },
-    {
-      "id": "38179523",
-      "title": "Deniz Postası",
-      "idgo": "denizposta",
-      "type": 6,
-      "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8",
-      "rawUrl": "@y@@yy1111@P8KTt+i=8.8}8=+PrT.y+t#Dr^+i=8.8}8=+Pk.Tq8E,D{=+{8^.Tq8E,D{=+{8^#[RqJ{trpRU",
-      "headers": {},
-      "order": 1293,
-      "verified": true,
-      "latencyMs": 704,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179525",
@@ -7334,23 +7711,6 @@
       "order": 1341,
       "verified": false,
       "latencyMs": 12018
-    },
-    {
-      "id": "38179572",
-      "title": "S Sport 1 - B",
-      "idgo": "ssportb",
-      "type": 6,
-      "url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebiraz1.m3u8",
-      "rawUrl": "@y@@yy1111@i+Mt<8=[RsR{Ti#Dq=Tq=t#Dr^8#TsR1L^=RisD?<R+#+rDPT^iTl{^[T+.{^r+8q^{=iT+r{L^{=iT+rk+q.iD{=iT+rP8KTs8i+E1trpRU",
-      "headers": {
-        "Referer": "https://mahsunsports80.xyz/",
-        "Origin": "https://mahsunsports80.xyz",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0"
-      },
-      "order": 1342,
-      "verified": true,
-      "latencyMs": 1187,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179573",
@@ -7688,97 +8048,6 @@
       "latencyMs": 8096
     },
     {
-      "id": "38179604",
-      "title": "Hustler",
-      "idgo": "hustler",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/teen.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^=TTqtrpRU",
-      "headers": {},
-      "order": 1374,
-      "verified": true,
-      "latencyMs": 703,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179605",
-      "title": "Blu Hustler",
-      "idgo": "bluhustler",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/pov.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^,DKtrpRU",
-      "headers": {},
-      "order": 1375,
-      "verified": true,
-      "latencyMs": 581,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179606",
-      "title": "Penthouse",
-      "idgo": "pentho",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/blowjob.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^sPDM}DstrpRU",
-      "headers": {},
-      "order": 1376,
-      "verified": true,
-      "latencyMs": 582,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179607",
-      "title": "Dusk",
-      "idgo": "dusk",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/russian.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^iR{{8+qtrpRU",
-      "headers": {},
-      "order": 1377,
-      "verified": true,
-      "latencyMs": 539,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179608",
-      "title": "SL PORNO 1",
-      "idgo": "slporno",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/bigdick.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<.8#JtrpRU",
-      "headers": {},
-      "order": 1378,
-      "verified": true,
-      "latencyMs": 575,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179609",
-      "title": "SL FAMİLY PORNO",
-      "idgo": "slfamily",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/bigtits.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<=8={trpRU",
-      "headers": {},
-      "order": 1379,
-      "verified": true,
-      "latencyMs": 730,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179610",
-      "title": "Sırına Tv",
-      "idgo": "sirina",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/interracial.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^8q=Tii+#8+PtrpRU",
-      "headers": {},
-      "order": 1380,
-      "verified": true,
-      "latencyMs": 518,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179611",
       "title": "Trt 1 - C",
       "idgo": "trt1c",
@@ -7863,23 +8132,6 @@
       "latencyMs": 368
     },
     {
-      "id": "38179649",
-      "title": "Tabi Spor 2",
-      "idgo": "tabi2",
-      "type": 6,
-      "url": "https://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master.m3u8",
-      "rawUrl": "@y@@yy1111@riUsKoJP1q:2{[!=MLh,6E}C<trT.y+t=i=t#Drt=i^r+{=TitrpRU",
-      "headers": {
-        "Referer": "https://bunnycdn205.xyz/",
-        "Origin": "https://bunnycdn205.xyz",
-        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
-      },
-      "order": 1419,
-      "verified": true,
-      "latencyMs": 1492,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179650",
       "title": "Tabi Spor 3",
       "idgo": "tabi3",
@@ -7894,40 +8146,6 @@
       "order": 1420,
       "verified": false,
       "latencyMs": 244
-    },
-    {
-      "id": "38179651",
-      "title": "Tabi Spor 4",
-      "idgo": "tabi4",
-      "type": 6,
-      "url": "https://sh7tq2nw5mr1vl9xp4zk3gj8k.medya.trt.com.tr/master.m3u8",
-      "rawUrl": "@y@@yy1111@{[2=:LqM6ri1KP!h,oEJp<}UJtrT.y+t=i=t#Drt=i^r+{=TitrpRU",
-      "headers": {
-        "Referer": "https://bunnycdn205.xyz/",
-        "Origin": "https://bunnycdn205.xyz",
-        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
-      },
-      "order": 1421,
-      "verified": true,
-      "latencyMs": 1823,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179652",
-      "title": "Tabi Spor 5",
-      "idgo": "tabi5",
-      "type": 6,
-      "url": "https://vl2nq8sh4tw1mr7xp5zk9gj3y.medya.trt.com.tr/master.m3u8",
-      "rawUrl": "@y@@yy1111@KPLq:U{[o=M1ri2h,6EJ!<}pytrT.y+t=i=t#Drt=i^r+{=TitrpRU",
-      "headers": {
-        "Referer": "https://bunnycdn205.xyz/",
-        "Origin": "https://bunnycdn205.xyz",
-        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
-      },
-      "order": 1422,
-      "verified": true,
-      "latencyMs": 1257,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179653",
@@ -8022,98 +8240,6 @@
       "latencyMs": 165
     },
     {
-      "id": "38179661",
-      "title": "Digital Porno 1",
-      "idgo": "digipor1",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/bigass.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^s8<+{{trpRU",
-      "headers": {
-        "User-Agent": "ELITDIGITALPlayer"
-      },
-      "order": 1431,
-      "verified": true,
-      "latencyMs": 2786,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179662",
-      "title": "Digital Porno 2",
-      "idgo": "digipor2",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/cuckold.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^#R#JDP.trpRU",
-      "headers": {
-        "User-Agent": "ELITDIGITALPlayer"
-      },
-      "order": 1432,
-      "verified": true,
-      "latencyMs": 540,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179663",
-      "title": "Digital Porno 3",
-      "idgo": "digipor3",
-      "type": 6,
-      "url": "http://live.redtraffic.xyz/hardcore.m3u8",
-      "rawUrl": "@y@@yy11@P8KTtiT.=i+ll8#thyE^[+i.#DiTtrpRU",
-      "headers": {},
-      "order": 1433,
-      "verified": true,
-      "latencyMs": 517,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179665",
-      "title": "S Sport Plus - 2",
-      "idgo": "sportspb",
-      "type": 6,
-      "url": "https://css.d6e3eae5e065d5.help//beintv/tracks-v1a1/mono.m3u8",
-      "rawUrl": "@y@@yy1111@#{{t.CTpT+T6TFC6.6t[TP,^^sT8q=K^=i+#J{?K1+1^rDqDtrpRU",
-      "headers": {
-        "Referer": "https://www.atomsportv519.top/",
-        "Origin": "https://www.atomsportv519.top",
-        "Accept": "*/*",
-        "accept-language": "tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      },
-      "order": 1435,
-      "verified": true,
-      "latencyMs": 2178,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179666",
-      "title": "Ht Spor",
-      "idgo": "htspor",
-      "type": 6,
-      "url": "https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8",
-      "rawUrl": "@y@@yy1111@#8qTi?P8KTtTi#.qtqT=^[={,Di^[={,Dik1FUF,trpRU",
-      "headers": {},
-      "order": 1436,
-      "verified": true,
-      "latencyMs": 1237,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179669",
-      "title": "Tabi Spor 1",
-      "idgo": "tabi11",
-      "type": 6,
-      "url": "https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8",
-      "rawUrl": "@y@@yy1111@,Eo:=2qM1ri!{[LKP6hJU}<pytrT.y+t=i=t#Drt=i^r+{=TitrpRU",
-      "headers": {
-        "Referer": "https://bunnycdn205.xyz/",
-        "Origin": "https://bunnycdn205.xyz",
-        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
-      },
-      "order": 1439,
-      "verified": true,
-      "latencyMs": 1589,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179671",
       "title": "Yt Eşkiya Dunyaya",
       "idgo": "arkasira",
@@ -8127,22 +8253,6 @@
       "order": 1441,
       "verified": false,
       "latencyMs": 425
-    },
-    {
-      "id": "38179672",
-      "title": "Tv 8 Tr Goals",
-      "idgo": "tv8trgoals",
-      "type": 6,
-      "url": "https://tatatam.trt1sultanfatihss.workers.dev/https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web",
-      "rawUrl": "@y@@yy1111@=+=+=+rt=i=1{RP=+ql+=8[{{tMDiJTi{t.TK^@yy1111@=KUt.+8Dq#.qtqT=^=KU^=KUk1FUF,trpRUO+,,u=KUkMTs",
-      "headers": {
-        "x-lhd-agent": "{",
-        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'"
-      },
-      "order": 1442,
-      "verified": true,
-      "latencyMs": 2080,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179678",
@@ -8285,86 +8395,6 @@
       "latencyMs": 4894
     },
     {
-      "id": "38179697",
-      "title": "Vip Porn 1",
-      "idgo": "vip1",
-      "type": 6,
-      "url": "http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8",
-      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=ksi+EETi{k[.k[TK#^,P+yP8{=trpRU",
-      "headers": {
-        "User-Agent": "Linux; Android 9; CLT-L09"
-      },
-      "order": 1467,
-      "verified": true,
-      "latencyMs": 1489,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179698",
-      "title": "Vip Porn 2",
-      "idgo": "vip2",
-      "type": 6,
-      "url": "http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8",
-      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=k.T{8iTk[.k[TK#^,P+yP8{=trpRU",
-      "headers": {},
-      "order": 1468,
-      "verified": true,
-      "latencyMs": 2204,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179699",
-      "title": "Vip Porn 3",
-      "idgo": "vip3",
-      "type": 6,
-      "url": "http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8",
-      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=kTiDhk[.k[TK#^,P+yP8{=trpRU",
-      "headers": {},
-      "order": 1469,
-      "verified": true,
-      "latencyMs": 2238,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179700",
-      "title": "Vip Porn 4",
-      "idgo": "vip4",
-      "type": 6,
-      "url": "http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8",
-      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=kTiDhhhk[.k[TK#^,P+yP8{=trpRU",
-      "headers": {},
-      "order": 1470,
-      "verified": true,
-      "latencyMs": 2718,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179701",
-      "title": "Vip Porn 5",
-      "idgo": "vip5",
-      "type": 6,
-      "url": "http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8",
-      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=ks+{sT{k[.k[TK#^,P+yP8{=trpRU",
-      "headers": {},
-      "order": 1471,
-      "verified": true,
-      "latencyMs": 4967,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
-      "id": "38179702",
-      "title": "Vip Porn 6",
-      "idgo": "vip6",
-      "type": 6,
-      "url": "http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8",
-      "rawUrl": "@y@@yy11@UUtL1Lt2t11^P8KT^=T{=kTh=+{yk[.k[TK#^,P+yP8{=trpRU",
-      "headers": {},
-      "order": 1472,
-      "verified": true,
-      "latencyMs": 1534,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
-    },
-    {
       "id": "38179703",
       "title": "Maç Özetleri Canlı",
       "idgo": "macozet",
@@ -8375,23 +8405,6 @@
       "order": 1473,
       "verified": false,
       "latencyMs": 573
-    },
-    {
-      "id": "38179704",
-      "title": "Yaban Tv",
-      "idgo": "yaban",
-      "type": 6,
-      "url": "http://c3921155.edmonst.net/iptv/ESMHU7B3S7N5NW/6868/index.m3u8",
-      "rawUrl": "@y@@yy11@#p!L1166tT.rDq{=tqT=^8,=K^Z&>3W2mp&20604^CUCU^8q.ThtrpRU",
-      "headers": {
-        "Referer": "https://www.canlitv.top/embed/?id=12044",
-        "Origin": "https://www.canlitv.top/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      "order": 1474,
-      "verified": true,
-      "latencyMs": 1186,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38179705",
@@ -8420,19 +8433,6 @@
       "order": 1485,
       "verified": false,
       "latencyMs": 0
-    },
-    {
-      "id": "38180624",
-      "title": "A Haber",
-      "idgo": "ahaber",
-      "type": 6,
-      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8",
-      "rawUrl": "@y@@yy1111@iq==Mr}#8qt=RiJqT=tTi#.qtqT=^P#,rKTlsyD^+[+sTi^+[+sTik1FUF,trpRU",
-      "headers": {},
-      "order": 1518,
-      "verified": true,
-      "latencyMs": 2214,
-      "lastVerifiedAt": "2026-10-26T02:36:35.970Z"
     },
     {
       "id": "38189327",
