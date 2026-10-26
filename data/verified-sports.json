@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-26T01:55:15.957Z",
+  "updatedAt": "2026-10-26T02:29:30.589Z",
   "version": "1.0.0",
   "totalChannels": 33,
-  "activeChannels": 3,
+  "activeChannels": 2,
   "channels": {
     "bein-sports-1": {
       "id": "bein-sports-1",
@@ -16,7 +16,7 @@
             "User-Agent": "googleusercontent",
             "Referer": "https://trgoals1332.xyz/"
           },
-          "latencyMs": 12017,
+          "latencyMs": 12018,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -25,7 +25,7 @@
         {
           "url": "https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR",
           "headers": {},
-          "latencyMs": 11930,
+          "latencyMs": 11315,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -34,7 +34,7 @@
         {
           "url": "http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8",
           "headers": {},
-          "latencyMs": 12016,
+          "latencyMs": 12019,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -43,7 +43,7 @@
         {
           "url": "http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8",
           "headers": {},
-          "latencyMs": 12017,
+          "latencyMs": 12019,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -52,7 +52,7 @@
         {
           "url": "https://217.30.11.74/e/6570.m3u8",
           "headers": {},
-          "latencyMs": 12018,
+          "latencyMs": 12020,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -61,7 +61,7 @@
         {
           "url": "http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8",
           "headers": {},
-          "latencyMs": 12018,
+          "latencyMs": 12020,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -70,7 +70,7 @@
         {
           "url": "http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts",
           "headers": {},
-          "latencyMs": 12019,
+          "latencyMs": 12020,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -79,7 +79,7 @@
         {
           "url": "https://serveranon1.online:8443/701/index.m3u8",
           "headers": {},
-          "latencyMs": 12020,
+          "latencyMs": 12024,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -88,7 +88,7 @@
         {
           "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
           "headers": {},
-          "latencyMs": 12015,
+          "latencyMs": 12017,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -97,7 +97,7 @@
         {
           "url": "http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2621&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv",
           "headers": {},
-          "latencyMs": 11919,
+          "latencyMs": 24,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -232,7 +232,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12017,
+          "latencyMs": 12015,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -304,7 +304,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12016,
+          "latencyMs": 12018,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -340,7 +340,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12017,
+          "latencyMs": 12018,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -376,7 +376,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12014,
+          "latencyMs": 12017,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -412,7 +412,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12017,
+          "latencyMs": 12018,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -445,7 +445,7 @@
         {
           "url": "http://wowza.beinsports.com.tr/live/bshaber/playlist.m3u8",
           "headers": {},
-          "latencyMs": 8108,
+          "latencyMs": 8102,
           "score": 0,
           "feedSource": "MoonCrown Live Turkish",
           "feedRepo": "https://github.com/mooncrown04/nuvio",
@@ -478,7 +478,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12019,
+          "latencyMs": 12017,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -523,7 +523,7 @@
         {
           "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8",
           "headers": {},
-          "latencyMs": 11913,
+          "latencyMs": 11315,
           "score": 0,
           "feedSource": "ByteFixRepairs Turk IPTV",
           "feedRepo": "https://gist.github.com/ByteFixRepairs",
@@ -570,7 +570,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12017,
+          "latencyMs": 12019,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -646,7 +646,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12015,
+          "latencyMs": 12017,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -682,7 +682,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12016,
+          "latencyMs": 12017,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -790,7 +790,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12016,
+          "latencyMs": 12018,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -826,7 +826,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12015,
+          "latencyMs": 12018,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -862,7 +862,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12016,
+          "latencyMs": 12018,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -898,7 +898,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12017,
+          "latencyMs": 12019,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -934,7 +934,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12018,
+          "latencyMs": 12021,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -970,7 +970,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12017,
+          "latencyMs": 12020,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -1006,7 +1006,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12014,
+          "latencyMs": 12017,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -1042,7 +1042,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12018,
+          "latencyMs": 12016,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -1078,7 +1078,7 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
             "Referer": "https://trgoals1332.xyz//"
           },
-          "latencyMs": 12016,
+          "latencyMs": 12014,
           "score": 0,
           "feedSource": "M3Link Sports (Primary)",
           "feedRepo": "https://github.com/tecobaba/m3link",
@@ -1111,27 +1111,27 @@
         {
           "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
           "headers": {},
-          "latencyMs": 1015,
-          "score": 949,
+          "latencyMs": 1056,
+          "score": 947,
           "feedSource": "Aslan Static High-Availability Edge",
           "feedRepo": "local",
           "isVerifiedLive": true,
-          "lastVerifiedAt": "2026-10-26T01:55:15.957Z"
+          "lastVerifiedAt": "2026-10-26T02:29:30.589Z"
         },
         {
           "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
           "headers": {},
-          "latencyMs": 1331,
-          "score": 933,
+          "latencyMs": 1450,
+          "score": 927,
           "feedSource": "ByteFixRepairs Turk IPTV",
           "feedRepo": "https://gist.github.com/ByteFixRepairs",
           "isVerifiedLive": true,
-          "lastVerifiedAt": "2026-10-26T01:55:15.956Z"
+          "lastVerifiedAt": "2026-10-26T02:29:30.589Z"
         },
         {
           "url": "https://trt.daioncdn.net/trt-spor/master.m3u8",
           "headers": {},
-          "latencyMs": 285,
+          "latencyMs": 337,
           "score": 0,
           "feedSource": "Aslan Static High-Availability Edge",
           "feedRepo": "local",
@@ -1140,7 +1140,7 @@
         {
           "url": "https://trt.daioncdn.net/trt-spor-yildiz/master.m3u8",
           "headers": {},
-          "latencyMs": 179,
+          "latencyMs": 215,
           "score": 0,
           "feedSource": "Aslan Static High-Availability Edge",
           "feedRepo": "local",
@@ -1209,24 +1209,24 @@
       "logo": "https://picon.pics/TR/Spor/Aspor.png",
       "streams": [
         {
-          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
-          "headers": {},
-          "latencyMs": 2096,
-          "score": 795,
-          "feedSource": "ByteFixRepairs Turk IPTV",
-          "feedRepo": "https://gist.github.com/ByteFixRepairs",
-          "isVerifiedLive": true,
-          "lastVerifiedAt": "2026-10-26T01:55:15.957Z"
-        },
-        {
           "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
           "headers": {},
-          "latencyMs": 6317,
-          "score": 684,
+          "latencyMs": 2325,
+          "score": 884,
           "feedSource": "Aslan Static High-Availability Edge",
           "feedRepo": "local",
           "isVerifiedLive": true,
-          "lastVerifiedAt": "2026-10-26T01:55:15.957Z"
+          "lastVerifiedAt": "2026-10-26T02:29:30.589Z"
+        },
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8",
+          "headers": {},
+          "latencyMs": 563,
+          "score": 872,
+          "feedSource": "ByteFixRepairs Turk IPTV",
+          "feedRepo": "https://gist.github.com/ByteFixRepairs",
+          "isVerifiedLive": true,
+          "lastVerifiedAt": "2026-10-26T02:29:30.589Z"
         }
       ],
       "formattedStreams": [
@@ -1261,19 +1261,9 @@
       "logo": "https://picon.pics/TR/Spor/Tv8bucuk.png",
       "streams": [
         {
-          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
-          "headers": {},
-          "latencyMs": 2650,
-          "score": 867,
-          "feedSource": "ByteFixRepairs Turk IPTV",
-          "feedRepo": "https://gist.github.com/ByteFixRepairs",
-          "isVerifiedLive": true,
-          "lastVerifiedAt": "2026-10-26T01:55:15.957Z"
-        },
-        {
           "url": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862",
           "headers": {},
-          "latencyMs": 12016,
+          "latencyMs": 12017,
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -1286,6 +1276,15 @@
           "score": 0,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web",
+          "headers": {},
+          "latencyMs": 33,
+          "score": 0,
+          "feedSource": "ByteFixRepairs Turk IPTV",
+          "feedRepo": "https://gist.github.com/ByteFixRepairs",
           "isVerifiedLive": false
         }
       ],

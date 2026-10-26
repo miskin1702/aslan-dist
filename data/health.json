@@ -1,63 +1,63 @@
 {
-  "generatedAt": "2026-10-26T01:59:20.210Z",
+  "generatedAt": "2026-10-26T02:36:35.986Z",
   "ok": true,
-  "streamWarning": false,
+  "streamWarning": true,
   "providers": [
     {
       "id": "dizipal",
       "status": "ONLINE",
-      "url": "https://dizipal3008.com",
-      "latencyMs": 393,
-      "ageHours": 4
+      "url": "https://dizibal.org",
+      "latencyMs": 497,
+      "ageHours": 0
     },
     {
       "id": "filmmakinesi",
       "status": "ONLINE",
-      "url": "https://filmmakinesi.vip",
-      "latencyMs": 1527,
-      "ageHours": 4
+      "url": "https://filmmakinesi.co",
+      "latencyMs": 904,
+      "ageHours": 0
     },
     {
       "id": "fullhdfilmizlesene",
       "status": "ONLINE",
-      "url": "https://www.fullhdfilmizlesene.com",
-      "latencyMs": 1336,
-      "ageHours": 4
+      "url": "https://www.fullhdfilmizlesene.now",
+      "latencyMs": 771,
+      "ageHours": 0
     },
     {
       "id": "hdfilmcehennemi",
       "status": "ONLINE",
-      "url": "https://www.hdfilmcehennemi.pw",
-      "latencyMs": 1321,
-      "ageHours": 4
+      "url": "https://www.hdfilmcehennemi2.biz",
+      "latencyMs": 439,
+      "ageHours": 0
     },
     {
       "id": "inat",
-      "status": "FALLBACK",
-      "url": "https://sprboxs.bar",
-      "latencyMs": 9999,
-      "ageHours": 4
+      "status": "ONLINE",
+      "url": "https://dizilabmedia.click",
+      "latencyMs": 350,
+      "ageHours": 0
     },
     {
       "id": "jetfilmizle",
       "status": "ONLINE",
-      "url": "https://jetfilmizle.net",
-      "latencyMs": 991,
-      "ageHours": 4
+      "url": "https://jetfilmizle.app",
+      "latencyMs": 435,
+      "ageHours": 0
     },
     {
-      "id": "rec",
+      "id": "rectv",
       "status": "ONLINE",
-      "url": "https://a.prectv70.lol",
-      "latencyMs": 595,
-      "ageHours": 4
+      "url": "https://hostinnegar.com",
+      "latencyMs": 708,
+      "ageHours": 0
     },
     {
       "id": "sezonlukdizi",
       "status": "ONLINE",
       "url": "https://sezonlukdizi.cc",
-      "latencyMs": 1650,
-      "ageHours": 4
+      "latencyMs": 467,
+      "ageHours": 0
     },
     {
       "id": "sinewix",
@@ -68,30 +68,30 @@
     },
     {
       "id": "webteizle",
-      "status": "ONLINE",
-      "url": "https://webteizle.net",
-      "latencyMs": 1190,
-      "ageHours": 4
+      "status": "DEGRADED",
+      "url": "https://webteizle3.xyz",
+      "latencyMs": 324,
+      "ageHours": 0
     },
     {
       "id": "yabancidizi",
       "status": "ONLINE",
-      "url": "https://yabancidizi.co",
-      "latencyMs": 614,
-      "ageHours": 4
+      "url": "https://yabanci-dizi.now",
+      "latencyMs": 805,
+      "ageHours": 0
     }
   ],
   "offline": [],
   "stale": [],
   "sports": {
     "channels": 33,
-    "liveChannels": 3,
+    "liveChannels": 2,
     "streams": 43,
-    "live": 5
+    "live": 4
   },
   "nettv": {
     "streams": 613,
-    "live": 112
+    "live": 114
   },
   "thresholds": {
     "sportsLivePctWarn": 10,

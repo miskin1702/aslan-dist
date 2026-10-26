@@ -1,9 +1,9 @@
 {
   "hdfilmcehennemi": {
     "name": "Hdfilmcehennemi",
-    "url": "https://www.hdfilmcehennemi.nl",
-    "latencyMs": 334,
-    "verifiedAt": "2026-10-26T02:14:33.348Z",
+    "url": "https://www.hdfilmcehennemi2.biz",
+    "latencyMs": 439,
+    "verifiedAt": "2026-10-26T02:26:12.268Z",
     "mirrorCount": 9,
     "status": "ONLINE",
     "workingCount": 3
@@ -11,8 +11,8 @@
   "fullhdfilmizlesene": {
     "name": "FullHDFilmizlesene",
     "url": "https://www.fullhdfilmizlesene.now",
-    "latencyMs": 562,
-    "verifiedAt": "2026-10-26T02:14:34.319Z",
+    "latencyMs": 771,
+    "verifiedAt": "2026-10-26T02:26:13.567Z",
     "mirrorCount": 6,
     "status": "ONLINE",
     "workingCount": 2
@@ -20,8 +20,8 @@
   "filmmakinesi": {
     "name": "FilmMakinesi",
     "url": "https://filmmakinesi.co",
-    "latencyMs": 468,
-    "verifiedAt": "2026-10-26T02:14:36.881Z",
+    "latencyMs": 904,
+    "verifiedAt": "2026-10-26T02:26:15.220Z",
     "mirrorCount": 7,
     "status": "ONLINE",
     "workingCount": 1
@@ -29,8 +29,8 @@
   "dizipal": {
     "name": "Dizipal",
     "url": "https://dizibal.org",
-    "latencyMs": 487,
-    "verifiedAt": "2026-10-26T02:15:18.054Z",
+    "latencyMs": 497,
+    "verifiedAt": "2026-10-26T02:26:57.034Z",
     "mirrorCount": 11,
     "status": "ONLINE",
     "workingCount": 1
@@ -38,8 +38,8 @@
   "webteizle": {
     "name": "WebteIzle",
     "url": "https://webteizle3.xyz",
-    "latencyMs": 355,
-    "verifiedAt": "2026-10-26T02:15:58.097Z",
+    "latencyMs": 324,
+    "verifiedAt": "2026-10-26T02:27:37.076Z",
     "mirrorCount": 8,
     "status": "DEGRADED",
     "workingCount": 0
@@ -47,8 +47,8 @@
   "jetfilmizle": {
     "name": "JetFilmizle",
     "url": "https://jetfilmizle.app",
-    "latencyMs": 412,
-    "verifiedAt": "2026-10-26T02:16:06.936Z",
+    "latencyMs": 435,
+    "verifiedAt": "2026-10-26T02:27:45.652Z",
     "mirrorCount": 7,
     "status": "ONLINE",
     "workingCount": 4
@@ -56,8 +56,8 @@
   "sezonlukdizi": {
     "name": "SezonlukDizi",
     "url": "https://sezonlukdizi.cc",
-    "latencyMs": 345,
-    "verifiedAt": "2026-10-26T02:16:18.275Z",
+    "latencyMs": 467,
+    "verifiedAt": "2026-10-26T02:27:57.006Z",
     "mirrorCount": 6,
     "status": "ONLINE",
     "workingCount": 2
@@ -65,26 +65,26 @@
   "yabancidizi": {
     "name": "YabanciDizi",
     "url": "https://yabanci-dizi.now",
-    "latencyMs": 667,
-    "verifiedAt": "2026-10-26T02:16:19.058Z",
+    "latencyMs": 805,
+    "verifiedAt": "2026-10-26T02:27:57.834Z",
     "mirrorCount": 5,
     "status": "ONLINE",
     "workingCount": 1
   },
   "rectv": {
     "name": "RecTV",
-    "url": "https://server-hi-speed-iran.info",
-    "latencyMs": 573,
-    "verifiedAt": "2026-10-26T02:16:27.168Z",
+    "url": "https://hostinnegar.com",
+    "latencyMs": 708,
+    "verifiedAt": "2026-10-26T02:28:05.937Z",
     "mirrorCount": 4,
     "status": "ONLINE",
     "workingCount": 2
   },
   "inat": {
     "name": "InatBox",
-    "url": "https://sprboxs.bar",
-    "latencyMs": 382,
-    "verifiedAt": "2026-10-26T02:16:28.075Z",
+    "url": "https://dizilabmedia.click",
+    "latencyMs": 350,
+    "verifiedAt": "2026-10-26T02:28:06.453Z",
     "mirrorCount": 3,
     "status": "ONLINE",
     "workingCount": 3
